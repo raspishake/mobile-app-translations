@@ -1,312 +1,464 @@
 # No stations defined
+Keine Stationen definiert
 
 # MY STATIONS
+Meine Stationen
 
 # FOLLOWING
 
 # You have to be logged in to see station data for this earthquake
+Du musst dich einloggen um die Stationsdaten für dieses Erdbeben zu sehen.
 
 # Please connect your station to your profile to see station data for this earthquake
+Bitte verknüpfe deine Station mit deinem Profil um Stationsdaten für diese Erdbeben zu sehen.
 
 # Login
+Login
 
 # Or follow any other station from the global community
+Oder folge einer anderen Station der weltweiten Community.
 
 # Explore Stations
+Erkunde die Stationen
 
 # Connection Timeout
+Verbindungsabbruch
 
 # The data might not be complete
+Die Daten sind nicht vollständig
 
 # Distance
+Entfernung
 
 # Magnitude %1+
+Magnitude %1+
 
 # %1 away
+%1 entfernt
 
 # Ground Motion below %1 m/s
+Bodenbewegung unter %1 m/s
 
 # Today
+Heute
 
 # Yesterday
+Gestern
 
 # %1 Earthquakes total
+%1 Anzahl der Erdbeben
 
 # %1 in current filter
+%1 in der aktuellen Auswahl
 
 # My Shake
+Mein Shake
 
 # Unfollow
+Abwählen
 
 # 24-hr Plot
+24h Anzeige
 
 # Share
+Teilen
 
 # You are currently not following any stations.
+Du hast im Moment keiner Stationen abonniert.
 
 # Follow stations on the station map
+Abonniere Stationen auf der Stationskarte.
 
 # Settings
+Einstellungen
 
 # Profile
+Profile
 
 # Units
+Einheiten
 
 # Appearance
+Erscheinung
 
 # About Raspberry Shake
+Über Raspberry Shake
 
 # Clear cache
+Cache leeren
 
 # Logout
+Ausloggen
 
 # %1 Stations online
+%1 Stationen online
 
 # %1 Stations found
+%1 Stationen gefunden
 
 # Enter station ID
+Gebe Stations ID ein
 
 # You are now following station %1
+Du hast station %1 abonniert
 
 # You are now no longer following station %1
+Du hast Station %1 nicht länger abonniert.
 
 # Password Reset
+Passwort zurücksetzen
 
 # Request sent!
+Anfrage gesendet!
 
 # Your password request has been sent. If the requested e-mail has been registered it will receive an e-mail swiftly.
+Deine Passwortanfrage ist versand worden. Falls die erforderliche Adresse registriert ist, wirst du eine EMail erhalten.
 
 # Request failed!
+Anfrage fehlgeschlagen!
 
 # An error occurred while sending the request.
+Während der Anfrage trat ein Fehler auf.
 
 # Use the same email address to register as you used to configure your Raspberry Shake. If you do not own a Raspberry Shake, any email address will work.
+Nutze die gleiche EMail Adresse mit der durch dich auch registriert hast um deinen Raspberry Shake zu konfigurieren. Falls du keinen Raspberry Shake besitzt, funktioniert auch jede andere Adresse. 
 
 # E-mail
+EMail
 
 # Enter your E-mail
+Gib deine EMail ein
 
 # Reset Password
+Setze das Passwort zurück
 
 # Successfully authenticated!
+Erfolgreich angemeldet!
 
 # Your data has been retrieved.
+Deine Daten wurden empfangen.
 
 # Authentication failed!
+Anmeldung fehlgeschlagen!
 
 # The username/password combination was not valid, please try again.
+Die Nutzer/Passwort Kombination ist nicht korrekt, versuche es nochmal.
 
 # Please use the same login that you use for ShakeNet
+Bitte verwende den gleichen Login wie für das ShakeNet
 
 # Username/E-mail
+Nutzer/EMail
 
 # Password
+Passwort
 
 # Enter your password
+Gib dein Passwort ein
 
 # Forgot your password?
+Passwort vergessen?
 
 # Register
+Anmelden
 
 # Registration
+Anmeldung
 
 # Successfully registered!
+Erfolgreich angemeldet!
 
 # Your account has been registered, an e-mail has been sent to registered address. Once confirmed you will be able to login with this account.
+Dein Zugang ist registriert worden,  eine EMaill wird zu der registrierten Adresse geschickt. Sobald diese bestätigt ist, kannst du dich anmelden.
 
 # There were validation errors, please try again.
+Es traten Validierungsfehler auf, bitte versuche es nochmal.
 
 # Username
+Nutzername
 
 # your Username
+dein Nutzername
 
 # First name
+Vorname
 
 # Last name
+Nachname
 
 # Confirm password
+Bestätige das Passwort
 
 # %1 Earthquakes
+%1 Erdbeben
 
 # List
+Liste
 
 # Map
+Karte
 
 # Apply
+Bestätigen
 
 # Region
+Region
 
 # Select the region you are interested in
+Wähle die Region aus
 
 # World
-
+Welt
 # This version is no longer supported. Please check the Play Store for the official Raspberry Shake App.
+Diese Version wird nicht länger unterstützt. Bitte besuche den Play Store um die offizielle Raspberry Shake App zu erhalten.
 
 # Ok
+Ok
 
 # %1 to %2
 // Event filter in Magnitude(5.2 to 9.5) or Depth(194 km to 0 km)
+%1 bis %2
 
 # Sort & Filter
+Sortieren und filtern
 
 # Sort
+Sortieren
 
 # Filter
+Filter
 
 # Sort Earthquakes By
+Sortiere Erbdeben anhand
 
 # Date
+Zeit
 
 # Magnitude
+Magnitude
 
 # Relevance
+Relevanz
 
 # Filter Earthquakes By
+Filtere Erdbeben anhand
 
 # min
+min
 
 # max
+max
 
 # Depth
+Tiefe
 
 # Time
+Zeit
 
 # %1 day(s) ago
+vor %1 Tagen
 
 # between %1 and %2 days ago
+vor %1 bis %2 Tagen
 
 # days
+Tagen
 
 # between %1 and %2 away
 // Event filter in Distance(between 0 and 20000 km away)
+in %1 bis %2 Entfernung
 
 # Distance to your location
+Distanz zu deinem Ort
 
 # Whole World
+Weltweit
 
 # %1 Earthquakes in this filter
+%1 Erdbeben in diesem Filter
 
 # Reset filters
+Filter löschen
 
 # Most recent earthquakes first
+Aktuellsten Erdbeben zuerst
 
 # Closest earthquakes first, relative to device's location
+Nächsten Erdbeben zuerst, abhänging vom Aufenthaltsort
 
 # Largest earthquake first
+Größte Erdbeben zuerst
 
 # Strongest close-by earthquake first, relative to device's location
+Stärkste und nächste Erdbeben zuerst, abhänging vom Aufenthaltsort
 
 # #Earthquake recorded on the #RaspberryShake #CitizenScience seismic network. See what’s shaking near you with the @raspishake #ShakeNet mobile app
+#Erdbeben, die von dem #RaspberryShake #CitizenScience seismischen Netzwerk aufgezeichnet wurden. Sieh mit der the @raspishake #ShakeNet Mobile Appe wo es in der Nähe bebt.
 
-# #Earthquake event recorded on the #RaspberryShake #CitizenScience seismic network. See what’s shaking near you with the @raspishake #ShakeNet mobile app
+#Erdbeben, die von dem #RaspberryShake #CitizenScience seismischen Netzwerk aufgezeichnet wurden. Sieh mit der the @raspishake #ShakeNet Mobile Appe wo es in der Nähe bebt.
 
 # 24-hr Plot data recorded on the #RaspberryShake #CitizenScience seismic network. See what’s shaking near you with the @raspishake #ShakeNet mobile app
+24h Plot mit Daten, die von dem #RaspberryShake #CitizenScience seismischen Netzwerk aufgezeichnet wurden. Sieh mit der the @raspishake #ShakeNet Mobile Appe wo es in der Nähe bebt.
 
 # About
+Über
 
 # Address
+Adresse
 
 # Helpful Links
+Hilfreiche Links
 
 # Company Website
+Firmenwebseite
 
 # Online Shop
+Online Shop
 
 # Tech Forum
+Technisches Forum
 
 # Contact
+Kontakt
 
 # Social Media
+Soziale Medien
 
 # Application
+Anwendung
 
 # Version
+Version
 
 # THEME
+Darstellung
 
 # Light Theme
+Helle Darstellung
 
 # Dark Theme
+Dunkle Darstellung
 
 # OFFLINE Stations
+Offline Stationen
 
 # HIDE
+Verstecken
 
 # Languages
+Sprachen
 
 # English
+Englisch
 
 # French
+Französisch
 
 # Vietnamese
+Vietnamnesisch
 
 # Media
+Medien
 
 # City / State
+Stadt / Bundesland
 
 # Country
+Land
 
 # Your Website
+Deine Webseite
 
 # Amateur Radio Call Sign
+Amateur Radio Rufzeichen
 
 # Distances
+Distanzen
 
 # Kilometers / Meters
+Kilometer / Meter
 
 # Miles / Feet
+Meilen / Fuß
 
 # Frequency
+Frequenz
 
 # Frequency data showing distribution of energy across resolvable frequencies
+Frequenzwerte welche die Energieverteilung über die aufgelösten Frequenzen darstellen
 
 # Frequency in Hz
+Frequenz in Hz
 
 # Spectrogram Fine Tuning
+Feinjustierung der Spektrogramme
 
 # Log-Scale
+logarithmische Skala
 
 # Station offline
+Station offline
 
 # live
+live 
 
 # No Station found
+Keine Station gefunden
 
 # No Channel found
+Kein Kanal gefunden
 
 # unknown station
+Unbekannte Station
 
 # unknown Region
+Unbekannte Region
 
 # Waveform
+Wellenformen
 
 # Amplitude
+Amplitude
 
 # Waveform data showing P- and S-wave arrival times
+Wellenformen, die P- und S- Ankünfte anzeigen
 
 # Counts
+Anzahl 
 
 # Offline
+Offline
 
 # Server unavailable, please try again later
+Server nicht erreichbar, versuche es später nochmal
 
 # No data
+Keine Daten
 
 # Trace Filter
+Spurfilter
 
 # Global 0.1 - 0.8 Hz
+Global 0.1 - 0.8 Hz
 
 # Regional 0.7 - 2.0 Hz
+Regional 0.7 - 2.0 Hz
 
 # Local 3.0 - 8.0 Hz
+Lokal 3.0 - 8.0 Hz
 
 # Hyper Local 3.0 - 20.0 Hz
+Extrem lokal 3.0 - 20.0 Hz
 
 # Elevation
+Höhe
 
 # unfiltered
+ungefiltert
 
 # Events
+Erdbeben
 
 # Stations
+Stationen
 
