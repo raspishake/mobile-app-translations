@@ -1,0 +1,312 @@
+# No stations defined
+
+# MY STATIONS
+
+# FOLLOWING	# context: means the stations that a person has FOLLOWED from the station screen / map
+
+# You have to be logged in to see station data for this earthquake
+
+# Please connect your station to your profile to see station data for this earthquake
+
+# Login	# context: as a verb
+
+# Or follow any other station from the global community
+
+# Explore Stations
+
+# Connection Timeout
+
+# The data might not be complete
+
+# Distance
+
+# Magnitude %1+
+
+# %1 away	# context: as a distance _away_ from phone's current location
+
+# Ground Motion below %1 m/s
+
+# Today
+
+# Yesterday
+
+# %1 Earthquakes total
+
+# %1 in current filter
+
+# My Shake
+
+# Unfollow
+
+# 24-hr Plot
+
+# Share
+
+# You are currently not following any stations.
+
+# Follow stations on the station map		# context: means to select a station to follow for display on 'My Shake' Main page
+
+# Settings
+
+# Profile
+
+# Units
+
+# Appearance
+
+# About Raspberry Shake
+
+# Clear cache
+
+# Logout
+
+# %1 Stations online
+
+# %1 Stations found
+
+# Enter station ID
+
+# You are now following station %1
+
+# You are now no longer following station %1
+
+# Password Reset
+
+# Request sent!
+
+# Your password request has been sent. If the requested e-mail has been registered it will receive an e-mail swiftly.
+
+# Request failed!
+
+# An error occurred while sending the request.
+
+# Use the same email address to register as you used to configure your Raspberry Shake. If you do not own a Raspberry Shake, any email address will work.
+
+# E-mail
+
+# Enter your E-mail
+
+# Reset Password	# context: as a verb
+
+# Successfully authenticated!
+
+# Your data has been retrieved.
+
+# Authentication failed!
+
+# The username/password combination was not valid, please try again.
+
+# Please use the same login that you use for ShakeNet
+
+# Username/E-mail
+
+# Password
+
+# Enter your password
+
+# Forgot your password?
+
+# Register
+
+# Registration
+
+# Successfully registered!
+
+# Your account has been registered, an e-mail has been sent to registered address. Once confirmed you will be able to login with this account.
+
+# There were validation errors, please try again.
+
+# Username
+
+# your Username
+
+# First name
+
+# Last name
+
+# Confirm password
+
+# %1 Earthquakes
+
+# List
+
+# Map
+
+# Apply
+
+# Region
+
+# Select the region you are interested in
+
+# World
+
+# This version is no longer supported. Please check the Play Store for the official Raspberry Shake App.
+
+# Ok
+
+# %1 to %2
+// Event filter in Magnitude(5.2 to 9.5) or Depth(194 km to 0 km)
+
+# Sort & Filter
+
+# Sort
+
+# Filter
+
+# Sort Earthquakes By
+
+# Date
+
+# Magnitude
+
+# Relevance
+
+# Filter Earthquakes By
+
+# min
+
+# max
+
+# Depth
+
+# Time
+
+# %1 day(s) ago
+
+# between %1 and %2 days ago
+
+# days
+
+# between %1 and %2 away
+// Event filter in Distance(between 0 and 20000 km away)
+
+# Distance to your location
+
+# Whole World
+
+# %1 Earthquakes in this filter
+
+# Reset filters
+
+# Most recent earthquakes first
+
+# Closest earthquakes first, relative to device's location
+
+# Largest earthquake first
+
+# Strongest close-by earthquake first, relative to device's location
+
+# #Earthquake recorded on the #RaspberryShake #CitizenScience seismic network. See what’s shaking near you with the @raspishake #ShakeNet mobile app
+
+# #Earthquake event recorded on the #RaspberryShake #CitizenScience seismic network. See what’s shaking near you with the @raspishake #ShakeNet mobile app
+
+# 24-hr Plot data recorded on the #RaspberryShake #CitizenScience seismic network. See what’s shaking near you with the @raspishake #ShakeNet mobile app
+
+# About
+
+# Address	# context: this represents a physical address
+
+# Helpful Links
+
+# Company Website
+
+# Online Shop
+
+# Tech Forum
+
+# Contact
+
+# Social Media
+
+# APP Information
+
+# Version
+
+# THEME
+
+# Light Theme
+
+# Dark Theme
+
+# OFFLINE Stations
+
+# HIDE
+
+# Languages
+
+# English
+
+# French
+
+# Vietnamese
+
+# Media	# context: as in social media websites
+
+# City / State
+
+# Country
+
+# Your Website
+
+# Amateur Radio Call Sign
+
+# Distances
+
+# Kilometers / Meters
+
+# Miles / Feet
+
+# Frequency
+
+# Frequency data showing distribution of energy across resolvable frequencies
+
+# Frequency in Hz
+
+# Spectrogram Fine Tuning
+
+# Log-Scale
+
+# Station offline
+
+# live
+
+# No Station found
+
+# No Channel found
+
+# unknown station
+
+# unknown Region
+
+# Waveform
+
+# Amplitude
+
+# Waveform data showing P- and S-wave arrival times
+
+# Counts
+
+# Offline
+
+# Server unavailable, please try again later
+
+# No data
+
+# Trace Filter
+
+# Global 0.1 - 0.8 Hz
+
+# Regional 0.7 - 2.0 Hz
+
+# Local 3.0 - 8.0 Hz
+
+# Hyper Local 3.0 - 20.0 Hz
+
+# Elevation
+
+# unfiltered	# context: refers to a filter being applied to a waveform on display
+
+# Events
+
+# Stations
+
