@@ -1,312 +1,471 @@
 # No stations defined
+Pa gen okenn estasyon defini
 
 # MY STATIONS
+station mwen yo
 
 # FOLLOWING	# context: means the stations that a person has FOLLOWED from the station screen / map
+Ou swiv
 
 # You have to be logged in to see station data for this earthquake
+Ou dwe louvri sesyon an pou wè done stasyon pou tranbleman tè sa a
 
 # Please connect your station to your profile to see station data for this earthquake
+Tanpri, konekte stasyon ou avèk pwofil ou pou wè done stasyon pou tranbleman tè sa a
 
 # Login	# context: as a verb
+Ouvri sesyon an
 
 # Or follow any other station from the global community
+Oswa swiv nenpòt lòt stasyon nan kominote mondyal la
 
 # Explore Stations
+Eksplore stasyon yo
 
 # Connection Timeout
+Koneksyon Ekspire
 
 # The data might not be complete
+Done yo pa ta ka konplè
 
 # Distance
+Distans
 
 # Magnitude %1+
+Mayitid %1+
 
 # %1 away	# context: as a distance _away_ from phone's current location
+%1 lwen kote
 
 # Ground Motion below %1 m/s
+Mouvman tè moins ke %1 m/s
 
 # Today
+Jodi a
 
 # Yesterday
+Yè
 
 # %1 Earthquakes total
+%1 Tranbleman tè total
 
 # %1 in current filter
+%1 nan filtre aktyèl la
 
 # My Shake
+Souke mwen
 
 # Unfollow
+Sispann swiv
 
 # 24-hr Plot
+Desen 24 èdtan
 
 # Share
+Pataje
 
 # You are currently not following any stations.
+Kounye a ou pa swiv okenn stasyon.
 
 # Follow stations on the station map		# context: means to select a station to follow for display on 'My Shake' Main page
+Swiv stasyon sou kat stasyon an
 
 # Settings
+Anviwònman
 
 # Profile
+Profile
 
 # Units
+Inite
 
 # Appearance
+Aparans
 
 # About Raspberry Shake
+Sou Raspberry Shake
 
 # Clear cache
+Efase memwa cache
 
 # Logout
+Dekonekte
 
 # %1 Stations online
+%1 stasyon yo ki konekte sou entènèt
 
 # %1 Stations found
+%1 stasyon yo te jwenn
 
 # Enter station ID
+Mete ID stasyon
 
 # You are now following station %1
+Kounye a ou ap swiv estasyon %1
 
 # You are now no longer following station %1
+Ou pa swiv stasyon %1 an ankò
 
 # Password Reset
+Reyajiste modpas
 
 # Request sent!
+Demann voye!
 
 # Your password request has been sent. If the requested e-mail has been registered it will receive an e-mail swiftly.
+Demann modpas ou te voye. Si e-mail yo mande a te anrejistre li pral resevwa yon e-mail rapidman.
 
 # Request failed!
+Demann echwe!
 
 # An error occurred while sending the request.
+Yon erè ki te fèt pandan y ap voye demann lan.
 
 # Use the same email address to register as you used to configure your Raspberry Shake. If you do not own a Raspberry Shake, any email address will work.
+Sèvi ak menm adrès imèl la pou enskri ke ou te itilize pou konfigirasyon Raspberry Shake ou. Si ou pa gen Raspberry Shake, yo ka itilize nenpòt adrès imèl.
 
 # E-mail
+Imèl
 
 # Enter your E-mail
+Antre nan Imèl ou
 
 # Reset Password	# context: as a verb
+Reyajiste modpas
 
 # Successfully authenticated!
+Otantifye avèk siksè!
 
 # Your data has been retrieved.
+Done ou te rekipere.
 
 # Authentication failed!
+Otantifikasyon echwe!
 
 # The username/password combination was not valid, please try again.
+Konbinezon non itilizatè / modpas la pa valab, tanpri eseye ankò.
 
 # Please use the same login that you use for ShakeNet
+Tanpri itilize menm non itilizate ke ou itilize pou ShakeNet
 
 # Username/E-mail
+Non itilizatè / Imèl
 
 # Password
+Modpas
 
 # Enter your password
+Antre modpas ou
 
 # Forgot your password?
+Ou bliye modpas ou?
 
 # Register
+Enskri
 
 # Registration
+Enskripsyon
 
 # Successfully registered!
+Enskripsyon avèk siksè!
 
 # Your account has been registered, an e-mail has been sent to registered address. Once confirmed you will be able to login with this account.
+Kont ou te anrejistre, yon imèl te voye nan adrès ki anrejistre nan kont ou. Yon fwa konfime, ou pral kapab konekte ak kont sa a.
 
 # There were validation errors, please try again.
+Te gen erè validation, tanpri eseye ankò
 
 # Username
+Non itilizatè 
 
 # your Username
+Non itilizatè ou
 
 # First name
+Premye non
 
 # Last name
+Non fanmi
 
 # Confirm password
+Konfime modpas
 
 # %1 Earthquakes
+%1 tranbleman tè yo
 
 # List
+Lis
 
 # Map
+Kat
 
 # Apply
+Aplike
 
 # Region
+Rejyon an
 
 # Select the region you are interested in
+Chwazi rejyon an ou enterese nan
 
 # World
+Mondyal
 
 # This version is no longer supported. Please check the Play Store for the official Raspberry Shake App.
+Vèsyon sa a pa sipòte ankò. Tanpri tcheke Play Store pou Raspberry Shake app ofisyèl la.
 
 # Ok
+Ok
 
 # %1 to %2
+%1 a %2
 // Event filter in Magnitude(5.2 to 9.5) or Depth(194 km to 0 km)
+// Filtre evènman nan Mayitid (5.2 a 9.5) oswa Pwofondè (194 km a 0 km)
 
 # Sort & Filter
+Triye & Filtre
 
 # Sort
+Triye
 
 # Filter
+Filtre
 
 # Sort Earthquakes By
+Triye Tranblemann tè yo Pa
 
 # Date
+Dat
 
 # Magnitude
+Mayitid
 
 # Relevance
+Enpòtans
 
 # Filter Earthquakes By
+Filtre Tranblemann tè yo Pa
 
 # min
+minimòm
 
 # max
+maksimòm
 
 # Depth
+Pwofondè
 
 # Time
+Tan
 
 # %1 day(s) ago
+%1 jou de sa
 
 # between %1 and %2 days ago
+ant %1 ak %2 jou de sa
 
 # days
+jou
 
 # between %1 and %2 away
+ant %1 ak %2 km lwen
 // Event filter in Distance(between 0 and 20000 km away)
+// Filtre Evènman nan Distans (ant 0 ak 20000 km lwen)
 
 # Distance to your location
+Distans kote ou ye a
 
 # Whole World
+Lemonn antye
 
 # %1 Earthquakes in this filter
+%1 Tranbleman tè nan filtre sa a
 
 # Reset filters
+Reyajiste filtè yo
 
 # Most recent earthquakes first
+Tranbleman tè ki pi resan an premye
 
 # Closest earthquakes first, relative to device's location
+Tranbleman tè ki pi pre an premye
 
 # Largest earthquake first
+Tranbleman tè ki pi fò an premye
 
 # Strongest close-by earthquake first, relative to device's location
+Pi fò tranbleman tè ki pi pre an premye
 
 # #Earthquake recorded on the #RaspberryShake #CitizenScience seismic network. See what’s shaking near you with the @raspishake #ShakeNet mobile app
+#Tranbleman tè anrejistre sou rezo sismik la #RaspberryShake #CitizenScience. Gade sa k ap tranble tou pre w ak aplikasyon mobil @raspishake la
 
 # #Earthquake event recorded on the #RaspberryShake #CitizenScience seismic network. See what’s shaking near you with the @raspishake #ShakeNet mobile app
+#Evènman tranbleman tè anrejistre sou rezo sismik la #RaspberryShake #CitizenScience. Gade sa k ap tranble tou pre w ak aplikasyon mobil @raspishake la
 
 # 24-hr Plot data recorded on the #RaspberryShake #CitizenScience seismic network. See what’s shaking near you with the @raspishake #ShakeNet mobile app
+Trase 24 èdtan nan done anrejistre sou rezo sismik la #RaspberryShake #CitizenScience. Gade sa k ap tranble tou pre w ak aplikasyon mobil @raspishake la
 
 # About
+Sou
 
 # Address	# context: this represents a physical address
+Adrès
 
 # Helpful Links
+Lyen itil
 
 # Company Website
+Sit entènèt konpayi an
 
 # Online Shop
+Boutik sou entènèt
 
 # Tech Forum
+Fowòm teknik
 
 # Contact
+Kontakt
 
 # Social Media
+Medya sosyal
 
 # APP Information
+APP Enfòmasyon
 
 # Version
+Vèsyon
 
 # THEME
+Tèm
 
 # Light Theme
+Tèm klè
 
 # Dark Theme
+Tèm nwa
 
 # OFFLINE Stations
+Stasyon yo ki pa konekte
 
 # HIDE
+Kache
 
 # Languages
+Lang etranjè
 
 # English
+Angle
 
 # French
+Franse
 
 # Vietnamese
+Vyetnamyen
 
 # Media	# context: as in social media websites
+Medya
 
 # City / State
+Vil / Depatman
 
 # Country
+Peyi
 
 # Your Website
+Sit entènèt ou
 
 # Amateur Radio Call Sign
+Amatè radyo apèl siy w
 
 # Distances
+Distans
 
 # Kilometers / Meters
+Kilomèt / Mèt
 
 # Miles / Feet
+Mil / Pye
 
 # Frequency
+Frekans
 
 # Frequency data showing distribution of energy across resolvable frequencies
+Done frekans ki montre distribisyon enèji atravè frekans rezolib yo
 
 # Frequency in Hz
+Frekans non Hz
 
 # Spectrogram Fine Tuning
+Ajisteman egzak spèktrogram
 
 # Log-Scale
+Echèl logaritmik
 
 # Station offline
+Stasyon yo ki pa konekte
 
 # live
+viv
 
 # No Station found
+Pa gen okenn stasyon yo te jwenn
 
 # No Channel found
+pa gen okenn chanèl yo te jwenn
 
 # unknown station
+stasyon enkoni
 
 # unknown Region
+rejyon enkoni
 
 # Waveform
+Fòm vag
 
 # Amplitude
+Anplitid
 
 # Waveform data showing P- and S-wave arrival times
+Done fòm vag ki montre lè arive nan vag P ak S
 
 # Counts
+Kont you
 
 # Offline
+Pa konekte
 
 # Server unavailable, please try again later
+Sèvè a pa disponib, tanpri eseye ankò pita
 
 # No data
+Pa gen done
 
 # Trace Filter
+Trace filtre
 
+lokal rejyonal lokal yo
 # Global 0.1 - 0.8 Hz
+Mondyal 0.1 - 0.8 Hz
 
 # Regional 0.7 - 2.0 Hz
+Rejyonal 0.7 - 2.0 Hz
 
 # Local 3.0 - 8.0 Hz
+Lokal 3.0 - 8.0 Hz
 
 # Hyper Local 3.0 - 20.0 Hz
+Anpil lokal 3.0 - 20.0 Hz
 
 # Elevation
+Altitid
 
 # unfiltered	# context: refers to a filter being applied to a waveform on display
+Pa filtre
 
 # Events
+Evènman
 
 # Stations
+Estasyon
+
 
