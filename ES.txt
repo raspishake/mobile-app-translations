@@ -224,7 +224,7 @@ Ok
 
 # %1 to %2
 // Event filter in Magnitude(5.2 to 9.5) or Depth(194 km to 0 km)
-// Filtro de evento en Magnitud(5.2 a 9.5) o Profundidad(194 km a 0 km)
+%1 a %2
 
 # Sort & Filter
 Organizar & Filtrar
@@ -274,7 +274,6 @@ días
 # between %1 and %2 away
 // Event filter in Distance(between 0 and 20000 km away)
 entre %1 y %2 aparte
-// Filtro de evento en Distancia(entre 0 y 20000 km aparte)
 
 # Distance to your location
 Distancia a su localización

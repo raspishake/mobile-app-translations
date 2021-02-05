@@ -223,9 +223,8 @@ Vèsyon sa a pa sipòte ankò. Tanpri tcheke Play Store pou Raspberry Shake app 
 Ok
 
 # %1 to %2
-%1 a %2
 // Event filter in Magnitude(5.2 to 9.5) or Depth(194 km to 0 km)
-// Filtre evènman nan Mayitid (5.2 a 9.5) oswa Pwofondè (194 km a 0 km)
+%1 a %2
 
 # Sort & Filter
 Triye & Filtre
@@ -273,9 +272,8 @@ ant %1 ak %2 jou de sa
 jou
 
 # between %1 and %2 away
-ant %1 ak %2 km lwen
 // Event filter in Distance(between 0 and 20000 km away)
-// Filtre Evènman nan Distans (ant 0 ak 20000 km lwen)
+ant %1 ak %2 lwen
 
 # Distance to your location
 Distans kote ou ye a

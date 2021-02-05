@@ -224,7 +224,7 @@ Ok
 
 # %1 to %2
 // Event filter in Magnitude(5.2 to 9.5) or Depth(194 km to 0 km)
-van %1 tot %1
+van %1 tot %2
 
 # Sort & Filter
 Sorteer & Filter
