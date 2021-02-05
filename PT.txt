@@ -240,12 +240,6 @@
 
 # Languages
 
-# English
-
-# French
-
-# Vietnamese
-
 # Media
 // as in social media websites
 
@@ -317,4 +311,3 @@
 # Events
 
 # Stations
-

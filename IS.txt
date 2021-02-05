@@ -357,15 +357,6 @@ Fela
 # Languages
 Tungumál
 
-# English
-Enska
-
-# French
-Franska
-
-# Vietnamese
-Víetnamíska
-
 # Media
 // as in social media websites
 Samfélagsmiðlar
@@ -472,4 +463,3 @@ Atburðir
 
 # Stations
 Stöðvar
-

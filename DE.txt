@@ -354,15 +354,6 @@ Verstecken
 # Languages
 Sprachen
 
-# English
-Englisch
-
-# French
-Französisch
-
-# Vietnamese
-Vietnamnesisch
-
 # Media
 // as in social media websites
 Medien
@@ -469,4 +460,3 @@ Erdbeben
 
 # Stations
 Stationen
-

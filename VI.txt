@@ -357,15 +357,6 @@ Trạm ngoại tuyến
 # Languages
 Ngôn ngữ
 
-# English
-English
-
-# French
-French
-
-# Vietnamese
-Tiếng Việt
-
 # Media
 // as in social media websites
 Truyền thông
@@ -472,4 +463,3 @@ Sự kiện
 
 # Stations
 Trạm
-

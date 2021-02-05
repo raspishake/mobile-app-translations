@@ -358,15 +358,6 @@ OCULTO
 # Languages
 Idiomas
 
-# English
-Inglés
-
-# French
-Frances
-
-# Vietnamese
-Vietnamita
-
 # Media
 // as in social media websites
 Medios

@@ -357,15 +357,6 @@ NASCONDI
 # Languages
 Lingue
 
-# English
-Inglese
-
-# French
-Francese
-
-# Vietnamese
-Vietnamita
-
 # Media
 // as in social media websites
 Social Media

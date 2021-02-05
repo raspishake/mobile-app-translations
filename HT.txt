@@ -359,15 +359,6 @@ Kache
 # Languages
 Lang etranjè
 
-# English
-Angle
-
-# French
-Franse
-
-# Vietnamese
-Vyetnamyen
-
 # Media
 // as in social media websites
 Medya
@@ -475,5 +466,3 @@ Evènman
 
 # Stations
 Estasyon
-
-

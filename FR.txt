@@ -357,15 +357,6 @@ CACHER
 # Languages
 Langues
 
-# English
-Anglais
-
-# French
-Français
-
-# Vietnamese
-Vietnamien
-
 # Media
 // as in social media websites
 Media
@@ -472,4 +463,3 @@ Evènements
 
 # Stations
 Stations
-

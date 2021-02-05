@@ -357,15 +357,6 @@ OFFLINEステーション
 # Languages
 言語
 
-# English
-English （英語）
-
-# French
-français （フランス語）
-
-# Vietnamese
-Tiếng Việt（ベトナム語）
-
 # Media
 // as in social media websites
 メディア
