@@ -4,7 +4,8 @@ Nessuna stazione definita
 # MY STATIONS
 LE MIE STAZIONI
 
-# FOLLOWING	# context: means the stations that a person has FOLLOWED from the station screen / map
+# FOLLOWING
+// means the stations that a person has FOLLOWED from the station screen / map
 STAZIONI PREFERITE
 
 # You have to be logged in to see station data for this earthquake
@@ -13,7 +14,8 @@ Devi aver effettuato il login per vedere i dati di questa stazione per questo te
 # Please connect your station to your profile to see station data for this earthquake
 Connetti la tua stazione al tuo profilo per poter vedere i dati per questo terremoto
 
-# Login	# context: as a verb
+# Login
+// as a verb
 Effettua il Login
 
 # Or follow any other station from the global community
@@ -34,7 +36,8 @@ Distanza
 # Magnitude %1+
 Magnitudo %1+
 
-# %1 away	# context: as a distance _away_ from phone's current location
+# %1 away
+// as a distance _away_ from phone's current location
 %1 
 
 # Ground Motion below %1 m/s
@@ -67,7 +70,8 @@ Condividi
 # You are currently not following any stations.
 Attualmente, non stai seguendo nessuna stazione.
 
-# Follow stations on the station map		# context: means to select a station to follow for display on 'My Shake' Main page
+# Follow stations on the station map
+// means to select a station to follow for display on 'My Shake' Main page
 Segui le stazioni sulla mappa
 
 # Settings
@@ -130,7 +134,8 @@ E-mail
 # Enter your E-mail
 Insersci il tuo indirizzo E-mail
 
-# Reset Password	# context: as a verb
+# Reset Password
+// as a verb
 Resetta la Password
 
 # Successfully authenticated!
@@ -306,7 +311,8 @@ Dati 24 ore registrati sulla rete sismica #RaspberryShake #CitizenScience. Tieni
 # About
 Su di noi
 
-# Address	# context: this represents a physical address
+# Address
+// this represents a physical address
 Indirizzo
 
 # Helpful Links
@@ -360,7 +366,8 @@ Francese
 # Vietnamese
 Vietnamita
 
-# Media	# context: as in social media websites
+# Media
+// as in social media websites
 Social Media
 
 # City / State
@@ -456,7 +463,8 @@ Ultra Locale 3.0 - 20.0 Hz
 # Elevation
 Altezza
 
-# unfiltered	# context: refers to a filter being applied to a waveform on display
+# unfiltered
+// refers to a filter being applied to a waveform on display
 non filtrata
 
 # Events

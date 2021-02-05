@@ -5,6 +5,7 @@ Engar stöðvar skilgreindar
 Mínar stöðvar
 
 # FOLLOWING
+// means the stations that a person has FOLLOWED from the station screen / map
 fylgir
 
 # You have to be logged in to see station data for this earthquake
@@ -14,6 +15,7 @@ fylgir
 Vinsamlegast tengdu stöðina þína við sniðið þitt til að sjá gögn stöðvar fyrir jarðskjálftann
 
 # Login
+// as a verb
 < could be "Innskrá" but it depends on if this word is a verb or a noun!!>
 
 # Or follow any other station from the global community
@@ -35,6 +37,7 @@ Fjarlægð
 Jarðskjálftastærð %1+
 
 # %1 away
+// as a distance _away_ from phone's current location
 %1 fjarlægð
 
 # Ground Motion below %1 m/s
@@ -68,6 +71,7 @@ Deila
 Þú fylgist ekki með neinum stöðvum í augnablikinu
 
 # Follow stations on the station map
+// means to select a station to follow for display on 'My Shake' Main page
 Fylgja stöðvum á stöðvakortinu 
 
 # Settings
@@ -131,6 +135,7 @@ Netfang
 Sláðu inn netfang þitt
 
 # Reset Password
+// as a verb
 Endursetja lykilorð 
 
 # Successfully authenticated!
@@ -307,6 +312,7 @@ Sólarhringsmæling á #RaspberryShake #CitizenScience jarðskjálftamælanetinu
 Um
 
 # Address
+// this represents a physical address
 Heimilisfang
 
 # Helpful Links
@@ -361,6 +367,7 @@ Franska
 Víetnamíska
 
 # Media
+// as in social media websites
 Samfélagsmiðlar
 
 # City / State
@@ -457,6 +464,7 @@ Afar nálægir 3.0 - 20.0 Hz
 Hæð
 
 # unfiltered
+// refers to a filter being applied to a waveform on display
 ósíað
 
 # Events

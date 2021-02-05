@@ -5,6 +5,7 @@ Estaciones no definidas
 MIS ESTACIONES
 
 # FOLLOWING
+// means the stations that a person has FOLLOWED from the station screen / map
 SIGUIENDO
 
 # You have to be logged in to see station data for this earthquake
@@ -14,6 +15,7 @@ Tienes que iniciar sesión para ver los datos de la estación para este sismo.
 Por favor conecta tu estación a tu perfil para ver los datos de la estación para este sismo.
 
 # Login
+// as a verb
 Iniciar sesión
 
 # Or follow any other station from the global community
@@ -35,6 +37,7 @@ Distancia
 Magnitud %1+
 
 # %1 away
+// as a distance _away_ from phone's current location
 %1 fuera
 
 # Ground Motion below %1 m/s
@@ -68,6 +71,7 @@ Compartir
 Actualmente no estás siguiendo ninguna estación.
 
 # Follow stations on the station map
+// means to select a station to follow for display on 'My Shake' Main page
 Seguir estaciones en el mapa de estaciones.
 
 # Settings
@@ -131,6 +135,7 @@ Correo electrónico
 Digite su correo electrónico
 
 # Reset Password
+// as a verb
 Cambiar contraseña
 
 # Successfully authenticated!
@@ -308,6 +313,7 @@ Gráfico de 24-hr de datos en la red sismológica #RaspberryShake #CitizenScienc
 Acerca de
 
 # Address
+// this represents a physical address
 Dirección
 
 # Helpful Links
@@ -362,6 +368,7 @@ Frances
 Vietnamita
 
 # Media
+// as in social media websites
 Medios
 
 # City / State
@@ -458,6 +465,7 @@ Hiper Local 3.0 - 20.0 Hz
 Elevación
 
 # unfiltered
+// refers to a filter being applied to a waveform on display
 Sin filtrar
 
 # Events

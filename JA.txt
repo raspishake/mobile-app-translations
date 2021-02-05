@@ -4,7 +4,8 @@
 # MY STATIONS
 マイ・ステーション
 
-# FOLLOWING	# context: means the stations that a person has FOLLOWED from the station screen / map
+# FOLLOWING
+// means the stations that a person has FOLLOWED from the station screen / map
 フォロー中
 
 # You have to be logged in to see station data for this earthquake
@@ -13,7 +14,8 @@
 # Please connect your station to your profile to see station data for this earthquake
 この地震のステーションデータが見えるためにあなたのステーションをプロフィールに接続してください
 
-# Login	# context: as a verb
+# Login
+// as a verb
 ログイン
 
 # Or follow any other station from the global community
@@ -34,7 +36,8 @@
 # Magnitude %1+
 マグニチュード %1+
 
-# %1 away	# context: as a distance _away_ from phone's current location
+# %1 away
+// as a distance _away_ from phone's current location
 %1 先にある
 
 # Ground Motion below %1 m/s
@@ -67,7 +70,8 @@
 # You are currently not following any stations.
 只今ステーションをフォローしていません
 
-# Follow stations on the station map		# context: means to select a station to follow for display on 'My Shake' Main page
+# Follow stations on the station map
+// means to select a station to follow for display on 'My Shake' Main page
 ステーション地図でステーションをフォローする
 
 # Settings
@@ -130,7 +134,8 @@
 # Enter your E-mail
 メールアドレスを入力してください
 
-# Reset Password	# context: as a verb
+# Reset Password
+// as a verb
 パスワードをリセットする
 
 # Successfully authenticated!
@@ -306,7 +311,8 @@ OK
 # About
 アプリについて
 
-# Address	# context: this represents a physical address
+# Address
+// this represents a physical address
 住所
 
 # Helpful Links
@@ -360,7 +366,8 @@ français （フランス語）
 # Vietnamese
 Tiếng Việt（ベトナム語）
 
-# Media	# context: as in social media websites
+# Media
+// as in social media websites
 メディア
 
 # City / State
@@ -456,7 +463,8 @@ P波to S波の到着時刻を示す波型データ
 # Elevation
 標高
 
-# unfiltered	# context: refers to a filter being applied to a waveform on display
+# unfiltered
+// refers to a filter being applied to a waveform on display
 フィルタなし
 
 # Events
