@@ -236,7 +236,7 @@ OK
 フィルタ
 
 # Sort Earthquakes By
-地震を***（this is where the sort factor goes)でフィルタする
+地震を並べ替える
 
 # Date
 日付
@@ -248,7 +248,7 @@ OK
 関連性
 
 # Filter Earthquakes By
-***(filter factor goes here)でフィルタする
+地震をフィルタする
 
 # min
 最小限
