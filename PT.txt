@@ -4,13 +4,9 @@ Nenhuma estação definida
 # MY STATIONS
 Minhas estações
 
-<<<<<<< HEAD
-# FOLLOWING # context: means the stations that a person has FOLLOWED from the station screen / map
-Seguindo
-=======
 # FOLLOWING
 // means the stations that a person has FOLLOWED from the station screen / map
->>>>>>> 16e5f69ebc3e01a5ed032b63baf92e2c0aa6018f
+Seguindo
 
 # You have to be logged in to see station data for this earthquake
 Você precisa estar logado para ver os dados da estação para este sismo.
@@ -18,14 +14,9 @@ Você precisa estar logado para ver os dados da estação para este sismo.
 # Please connect your station to your profile to see station data for this earthquake
 Por favor conecte sua estação ao seu perfil para ver os dados da estação para este sismo.
 
-<<<<<<< HEAD
-
-# Login 	# context: as a verb
-Login
-=======
 # Login
 // as a verb
->>>>>>> 16e5f69ebc3e01a5ed032b63baf92e2c0aa6018f
+Login
 
 # Or follow any other station from the global community
 Ou siga alguma outra estação da comunidade global
@@ -45,13 +36,9 @@ Distância
 # Magnitude %1+
 Magnitude %1+
 
-<<<<<<< HEAD
-# %1 away	# context: as a distance _away_ from phone's current location
-%1  Distante
-=======
 # %1 away
 // as a distance _away_ from phone's current location
->>>>>>> 16e5f69ebc3e01a5ed032b63baf92e2c0aa6018f
+%1  Distante
 
 # Ground Motion below %1 m/s
 Movimentação do chão menor que %1 m/s
@@ -83,13 +70,9 @@ Compartilhar
 # You are currently not following any stations.
 No momento você não está seguindo nenhuma estação
 
-<<<<<<< HEAD
-# Follow stations on the station map		# context: means to select a station to follow for display on 'My Shake' Main page
-Siga as estações de interesse no mapa de estações
-=======
 # Follow stations on the station map
 // means to select a station to follow for display on 'My Shake' Main page
->>>>>>> 16e5f69ebc3e01a5ed032b63baf92e2c0aa6018f
+Siga as estações de interesse no mapa de estações
 
 # Settings
 Configurações
@@ -152,13 +135,9 @@ Email
 # Enter your E-mail
 Insira seu Email
 
-<<<<<<< HEAD
-# Reset Password 	# context: as a verb
-Alterar senha
-=======
 # Reset Password
 // as a verb
->>>>>>> 16e5f69ebc3e01a5ed032b63baf92e2c0aa6018f
+Alterar senha
 
 # Successfully authenticated!
 Autenticado com sucesso!
@@ -339,13 +318,9 @@ Gráfico de dados 24-hr registrados na rede sísmica #RaspberryShake #CitizenScien
 # About
 Sobre
 
-<<<<<<< HEAD
-# Address	# context: this represents a physical address
-Endereço
-=======
 # Address
 // this represents a physical address
->>>>>>> 16e5f69ebc3e01a5ed032b63baf92e2c0aa6018f
+Endereço
 
 # Helpful Links
 Links úteis
@@ -389,7 +364,6 @@ Esconder
 # Languages
 Línguas
 
-<<<<<<< HEAD
 # English
 Inglês
 
@@ -399,12 +373,9 @@ Francês
 # Vietnamese
 Vietnamita
 
-# Media	# context: as in social media websites
-Mídias sociais
-=======
 # Media
 // as in social media websites
->>>>>>> 16e5f69ebc3e01a5ed032b63baf92e2c0aa6018f
+Mídias sociais
 
 # City / State
 Cidade/ Estado
