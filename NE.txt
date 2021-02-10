@@ -234,12 +234,6 @@
 
 # Languages
 
-# English
-
-# French
-
-# Vietnamese
-
 # Media
 
 # City / State
@@ -309,4 +303,3 @@
 # Events
 
 # Stations
-

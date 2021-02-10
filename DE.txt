@@ -5,6 +5,7 @@ Keine Stationen definiert
 Meine Stationen
 
 # FOLLOWING
+// means the stations that a person has FOLLOWED from the station screen / map
 
 # You have to be logged in to see station data for this earthquake
 Du musst dich einloggen um die Stationsdaten für dieses Erdbeben zu sehen.
@@ -13,6 +14,7 @@ Du musst dich einloggen um die Stationsdaten für dieses Erdbeben zu sehen.
 Bitte verknüpfe deine Station mit deinem Profil um Stationsdaten für diese Erdbeben zu sehen.
 
 # Login
+// as a verb
 Login
 
 # Or follow any other station from the global community
@@ -34,6 +36,7 @@ Entfernung
 Magnitude %1+
 
 # %1 away
+// as a distance _away_ from phone's current location
 %1 entfernt
 
 # Ground Motion below %1 m/s
@@ -67,6 +70,7 @@ Teilen
 Du hast im Moment keiner Stationen abonniert.
 
 # Follow stations on the station map
+// means to select a station to follow for display on 'My Shake' Main page
 Abonniere Stationen auf der Stationskarte.
 
 # Settings
@@ -130,6 +134,7 @@ EMail
 Gib deine EMail ein
 
 # Reset Password
+// as a verb
 Setze das Passwort zurück
 
 # Successfully authenticated!
@@ -304,6 +309,7 @@ Stärkste und nächste Erdbeben zuerst, abhänging vom Aufenthaltsort
 Über
 
 # Address
+// this represents a physical address
 Adresse
 
 # Helpful Links
@@ -348,16 +354,8 @@ Verstecken
 # Languages
 Sprachen
 
-# English
-Englisch
-
-# French
-Französisch
-
-# Vietnamese
-Vietnamnesisch
-
 # Media
+// as in social media websites
 Medien
 
 # City / State
@@ -454,6 +452,7 @@ Extrem lokal 3.0 - 20.0 Hz
 Höhe
 
 # unfiltered
+// refers to a filter being applied to a waveform on display
 ungefiltert
 
 # Events
@@ -461,4 +460,3 @@ Erdbeben
 
 # Stations
 Stationen
-

@@ -5,6 +5,7 @@ Chưa có trạm nào
 Trạm của tôi
 
 # FOLLOWING
+// means the stations that a person has FOLLOWED from the station screen / map
 Trạm đang theo dõi
 
 # You have to be logged in to see station data for this earthquake
@@ -14,6 +15,7 @@ Bạn phải đăng nhập để xem dữ liệu trạm cho trận động đấ
 Vui lòng kết nối trạm của bạn với hồ sơ của bạn để xem dữ liệu trạm cho trận động đất này
 
 # Login
+// as a verb
 Đăng nhập
 
 # Or follow any other station from the global community
@@ -35,6 +37,7 @@ Khoảng cách
 Độ mạnh %1+
 
 # %1 away
+// as a distance _away_ from phone's current location
 Cách %1
 
 # Ground Motion below %1 m/s
@@ -68,6 +71,7 @@ Chia sẻ
 Bạn hiện không theo dõi bất kỳ trạm nào
 
 # Follow stations on the station map
+// means to select a station to follow for display on 'My Shake' Main page
 Theo dõi các trạm trên bản đồ
 
 # Settings
@@ -131,6 +135,7 @@ E-mail
 Nhập e-mail
 
 # Reset Password
+// as a verb
 Đặt lại mật khẩu
 
 # Successfully authenticated!
@@ -307,6 +312,7 @@ Dữ liệu 24 giờ được ghi lại trên mạng địa chấn #RaspberrySha
 Giới thiệu
 
 # Address
+// this represents a physical address
 Địa chỉ
 
 # Helpful Links
@@ -351,16 +357,8 @@ Trạm ngoại tuyến
 # Languages
 Ngôn ngữ
 
-# English
-English
-
-# French
-French
-
-# Vietnamese
-Tiếng Việt
-
 # Media
+// as in social media websites
 Truyền thông
 
 # City / State
@@ -457,6 +455,7 @@ Siêu địa phương 3.0 - 20.0 Hz
 Độ cao
 
 # unfiltered
+// refers to a filter being applied to a waveform on display
 chưa lọc
 
 # Events
@@ -464,4 +463,3 @@ Sự kiện
 
 # Stations
 Trạm
-

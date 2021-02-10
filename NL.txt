@@ -5,6 +5,7 @@ Geen stations gedefinieerd
 Mijn stations
 
 # FOLLOWING
+// means the stations that a person has FOLLOWED from the station screen / map
 Gevolgden
 
 # You have to be logged in to see station data for this earthquake
@@ -14,6 +15,7 @@ U moet ingelogd zijn om de station data te zien voor deze aardbeving
 Verbind a.u.b. uw station met uw profiel om de station data te zien voor deze aardbeving
 
 # Login
+// as a verb
 Login
 
 # Or follow any other station from the global community
@@ -35,6 +37,7 @@ Afstand
 Magnitude %1+
 
 # %1 away
+// as a distance _away_ from phone's current location
 %1 ver weg
 
 # Ground Motion below %1 m/s
@@ -68,6 +71,7 @@ Delen
 U volgt momenteel geen stations
 
 # Follow stations on the station map
+// means to select a station to follow for display on 'My Shake' Main page
 Volg stations op de station map
 
 # Settings
@@ -131,6 +135,7 @@ E-mail
 Vul uw e-mail in
 
 # Reset Password
+// as a verb
 Reset paswoord
 
 # Successfully authenticated!
@@ -219,7 +224,7 @@ Ok
 
 # %1 to %2
 // Event filter in Magnitude(5.2 to 9.5) or Depth(194 km to 0 km)
-van %1 tot %1
+van %1 tot %2
 
 # Sort & Filter
 Sorteer & Filter
@@ -307,6 +312,7 @@ Sterkste dichtstbijzinde aardbevingen eerst, relatief t.o.v. toestal locatie
 About
 
 # Address
+// this represents a physical address
 Adres
 
 # Helpful Links
@@ -351,16 +357,8 @@ Verbergen
 # Languages
 Talen
 
-# English
-Engels
-
-# French
-Frans
-
-# Vietnamese
-Vietnamese
-
 # Media
+// as in social media websites
 Media
 
 # City / State
@@ -457,6 +455,7 @@ Hyper Lokaal
 Elevatie
 
 # unfiltered
+// refers to a filter being applied to a waveform on display
 ongefiltered
 
 # Events
@@ -464,4 +463,3 @@ Evenementen
 
 # Stations
 Stations
-
