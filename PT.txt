@@ -227,10 +227,7 @@ ok
 
 # %1 to %2
 // Event filter in Magnitude(5.2 to 9.5) or Depth(194 km to 0 km)
-
-Filtro de magnitude %1 a %2 (Magnitude Mínima - Magnitude Máxima)
-Filtro de profundidade %1 a %2  (Profundidade Mínima - Profundidade Máxima)
-
+%1 a %2
 
 # Sort & Filter
 Classificar e filtrar

@@ -439,7 +439,6 @@ Pa gen done
 # Trace Filter
 Trace filtre
 
-lokal rejyonal lokal yo
 # Global 0.1 - 0.8 Hz
 Mondyal 0.1 - 0.8 Hz
 
