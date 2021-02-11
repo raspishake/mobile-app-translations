@@ -196,11 +196,11 @@
 
 # Strongest close-by earthquake first, relative to device's location
 
-# #Earthquake recorded on the #RaspberryShake #CitizenScience seismic network. See what’s shaking near you with the @raspishake #ShakeNet mobile app
+# #Earthquake recorded on the #RaspberryShake #CitizenScience seismic network. See what's shaking near you with the @raspishake #ShakeNet mobile app
 
-# #Earthquake event recorded on the #RaspberryShake #CitizenScience seismic network. See what’s shaking near you with the @raspishake #ShakeNet mobile app
+# #Earthquake event recorded on the #RaspberryShake #CitizenScience seismic network. See what's shaking near you with the @raspishake #ShakeNet mobile app
 
-# 24-hr Plot data recorded on the #RaspberryShake #CitizenScience seismic network. See what’s shaking near you with the @raspishake #ShakeNet mobile app
+# 24-hr Plot data recorded on the #RaspberryShake #CitizenScience seismic network. See what's shaking near you with the @raspishake #ShakeNet mobile app
 
 # About
 

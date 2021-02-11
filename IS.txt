@@ -299,13 +299,13 @@ Stærstu jarðskjálftar fyrst
 # Strongest close-by earthquake first, relative to device's location
 Sterkustu nálægir skjálftar fyrst, miðað við staðsetningu tækis
 
-# #Earthquake recorded on the #RaspberryShake #CitizenScience seismic network. See what’s shaking near you with the @raspishake #ShakeNet mobile app
+# #Earthquake recorded on the #RaspberryShake #CitizenScience seismic network. See what's shaking near you with the @raspishake #ShakeNet mobile app
 Jarðskjálfti mældur með #RaspberryShake #CitizenScience jarðskjálftamælanetinu. Sjáðu hvað hristist nærri þér með @raspishake #ShakeNet appinu
 
-# #Earthquake event recorded on the #RaspberryShake #CitizenScience seismic network. See what’s shaking near you with the @raspishake #ShakeNet mobile app
+# #Earthquake event recorded on the #RaspberryShake #CitizenScience seismic network. See what's shaking near you with the @raspishake #ShakeNet mobile app
 Jarðskjálfti mældur með #RaspberryShake #CitizenScience jarðskjálftamælanetinu. Sjáðu hvað hristist nærri þér með @raspishake #ShakeNet appinu
 
-# 24-hr Plot data recorded on the #RaspberryShake #CitizenScience seismic network. See what’s shaking near you with the @raspishake #ShakeNet mobile app
+# 24-hr Plot data recorded on the #RaspberryShake #CitizenScience seismic network. See what's shaking near you with the @raspishake #ShakeNet mobile app
 Sólarhringsmæling á #RaspberryShake #CitizenScience jarðskjálftamælanetinu. Sjáðu hvað hristist nærri þér með @raspishake #ShakeNet appinu
 
 # About

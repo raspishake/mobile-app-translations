@@ -299,13 +299,13 @@ Tranbleman tè ki pi fò an premye
 # Strongest close-by earthquake first, relative to device's location
 Pi fò tranbleman tè ki pi pre an premye
 
-# #Earthquake recorded on the #RaspberryShake #CitizenScience seismic network. See what’s shaking near you with the @raspishake #ShakeNet mobile app
+# #Earthquake recorded on the #RaspberryShake #CitizenScience seismic network. See what's shaking near you with the @raspishake #ShakeNet mobile app
 #Tranbleman tè anrejistre sou rezo sismik la #RaspberryShake #CitizenScience. Gade sa k ap tranble tou pre w ak aplikasyon mobil @raspishake la
 
-# #Earthquake event recorded on the #RaspberryShake #CitizenScience seismic network. See what’s shaking near you with the @raspishake #ShakeNet mobile app
+# #Earthquake event recorded on the #RaspberryShake #CitizenScience seismic network. See what's shaking near you with the @raspishake #ShakeNet mobile app
 #Evènman tranbleman tè anrejistre sou rezo sismik la #RaspberryShake #CitizenScience. Gade sa k ap tranble tou pre w ak aplikasyon mobil @raspishake la
 
-# 24-hr Plot data recorded on the #RaspberryShake #CitizenScience seismic network. See what’s shaking near you with the @raspishake #ShakeNet mobile app
+# 24-hr Plot data recorded on the #RaspberryShake #CitizenScience seismic network. See what's shaking near you with the @raspishake #ShakeNet mobile app
 Trase 24 èdtan nan done anrejistre sou rezo sismik la #RaspberryShake #CitizenScience. Gade sa k ap tranble tou pre w ak aplikasyon mobil @raspishake la
 
 # About

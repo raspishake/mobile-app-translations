@@ -299,13 +299,13 @@ Toàn thế giới
 # Strongest close-by earthquake first, relative to device's location
 Động đất gần nhất mạnh nhất trước, theo vị trí thiết bị
 
-# #Earthquake recorded on the #RaspberryShake #CitizenScience seismic network. See what’s shaking near you with the @raspishake #ShakeNet mobile app
+# #Earthquake recorded on the #RaspberryShake #CitizenScience seismic network. See what's shaking near you with the @raspishake #ShakeNet mobile app
 #Earthquake được ghi lại trên mạng địa chấn #RaspberryShake #CitizenScience. Xem những gì đang rung chuyển gần bạn với ứng dụng di động @raspishake #ShakeNet
 
-# #Earthquake event recorded on the #RaspberryShake #CitizenScience seismic network. See what’s shaking near you with the @raspishake #ShakeNet mobile app
+# #Earthquake event recorded on the #RaspberryShake #CitizenScience seismic network. See what's shaking near you with the @raspishake #ShakeNet mobile app
 Sự kiện #Earthquake được ghi lại trên mạng địa chấn #RaspberryShake #CitizenScience. Xem những gì đang rung chuyển gần bạn với ứng dụng di động @raspishake #ShakeNet
 
-# 24-hr Plot data recorded on the #RaspberryShake #CitizenScience seismic network. See what’s shaking near you with the @raspishake #ShakeNet mobile app
+# 24-hr Plot data recorded on the #RaspberryShake #CitizenScience seismic network. See what's shaking near you with the @raspishake #ShakeNet mobile app
 Dữ liệu 24 giờ được ghi lại trên mạng địa chấn #RaspberryShake #CitizenScience. Xem những gì đang rung chuyển gần bạn với ứng dụng di động @raspishake #ShakeNet
 
 # About

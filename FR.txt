@@ -299,13 +299,13 @@ Plus forts séismes en premier
 # Strongest close-by earthquake first, relative to device's location
 Plus forts et proches séismes en premier, en fonction de votre emplacement
 
-# #Earthquake recorded on the #RaspberryShake #CitizenScience seismic network. See what’s shaking near you with the @raspishake #ShakeNet mobile app
+# #Earthquake recorded on the #RaspberryShake #CitizenScience seismic network. See what's shaking near you with the @raspishake #ShakeNet mobile app
 #Séisme enregistré sur le réseau sismique #RaspberryShake #CitizenScience. Observez ce qui tremble autour de vous avec #ShakeNet sur l'application mobile @raspishake
 
-# #Earthquake event recorded on the #RaspberryShake #CitizenScience seismic network. See what’s shaking near you with the @raspishake #ShakeNet mobile app
+# #Earthquake event recorded on the #RaspberryShake #CitizenScience seismic network. See what's shaking near you with the @raspishake #ShakeNet mobile app
 Evènement sismique enregistré sur le réseau sismique #RaspberryShake #CitizenScience. Observez ce qui tremble autour de vous avec #ShakeNet sur l'application mobile @raspishake
 
-# 24-hr Plot data recorded on the #RaspberryShake #CitizenScience seismic network. See what’s shaking near you with the @raspishake #ShakeNet mobile app
+# 24-hr Plot data recorded on the #RaspberryShake #CitizenScience seismic network. See what's shaking near you with the @raspishake #ShakeNet mobile app
 Graph 24h enregistré sur le réseau sismique #RaspberryShake #CitizenScience. Observez ce qui tremble autour de vous avec #ShakeNet sur l'application mobile @raspishake
 
 # About

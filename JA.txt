@@ -299,13 +299,13 @@ OK
 # Strongest close-by earthquake first, relative to device's location
 機器の現在地から近くて強い順
 
-# #Earthquake recorded on the #RaspberryShake #CitizenScience seismic network. See what’s shaking near you with the @raspishake #ShakeNet mobile app
+# #Earthquake recorded on the #RaspberryShake #CitizenScience seismic network. See what's shaking near you with the @raspishake #ShakeNet mobile app
 #Earthquakeが#RaspberryShake #CitizenScienceの震度ネットワークに記録しました。@raspishake #ShakeNetのアプリで近い地震をご覧ください。
 
-# #Earthquake event recorded on the #RaspberryShake #CitizenScience seismic network. See what’s shaking near you with the @raspishake #ShakeNet mobile app
+# #Earthquake event recorded on the #RaspberryShake #CitizenScience seismic network. See what's shaking near you with the @raspishake #ShakeNet mobile app
 #Earthquakeが#RaspberryShake #CitizenScienceの震度ネットワークに記録しました。@raspishake #ShakeNetのアプリで近い地震をご覧ください。
 
-# 24-hr Plot data recorded on the #RaspberryShake #CitizenScience seismic network. See what’s shaking near you with the @raspishake #ShakeNet mobile app
+# 24-hr Plot data recorded on the #RaspberryShake #CitizenScience seismic network. See what's shaking near you with the @raspishake #ShakeNet mobile app
 #Earthquakeが#RaspberryShake #CitizenScienceの震度ネットワークに記録しました。@raspishake #ShakeNetのアプリで近い地震をご覧ください。
 
 # About

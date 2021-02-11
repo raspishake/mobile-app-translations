@@ -299,13 +299,13 @@ Ordina per Magnitudo
 # Strongest close-by earthquake first, relative to device's location
 Ordina per Terremoti piú intensi, relativamente alla posizione del tuo smartphone
 
-# #Earthquake recorded on the #RaspberryShake #CitizenScience seismic network. See what’s shaking near you with the @raspishake #ShakeNet mobile app
+# #Earthquake recorded on the #RaspberryShake #CitizenScience seismic network. See what's shaking near you with the @raspishake #ShakeNet mobile app
 #Terremoto registrato sulla rete sismica #RaspberryShake #CitizenScience. Tieni d'occhio i terremoti vicini a te tramite l'app @raspishake #ShakeNet
 
-# #Earthquake event recorded on the #RaspberryShake #CitizenScience seismic network. See what’s shaking near you with the @raspishake #ShakeNet mobile app
+# #Earthquake event recorded on the #RaspberryShake #CitizenScience seismic network. See what's shaking near you with the @raspishake #ShakeNet mobile app
 #Terremoto registrato sulla rete sismica #RaspberryShake #CitizenScience. Tieni d'occhio i terremoti vicini a te tramite l'app @raspishake #ShakeNet
 
-# 24-hr Plot data recorded on the #RaspberryShake #CitizenScience seismic network. See what’s shaking near you with the @raspishake #ShakeNet mobile app
+# 24-hr Plot data recorded on the #RaspberryShake #CitizenScience seismic network. See what's shaking near you with the @raspishake #ShakeNet mobile app
 Dati 24 ore registrati sulla rete sismica #RaspberryShake #CitizenScience. Tieni d'occhio i terremoti vicini a te tramite l'app @raspishake #ShakeNet
 
 # About
