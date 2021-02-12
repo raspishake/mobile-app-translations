@@ -38,7 +38,7 @@ Magnitudo %1+
 
 # %1 away
 // as a distance _away_ from phone's current location
-%1 
+%1
 
 # Ground Motion below %1 m/s
 Movimento del Terreno al di sotto della soglia di %1 m/s
@@ -463,3 +463,8 @@ Eventi
 
 # Stations
 Stazioni
+
+# Select a Day of DATA
+
+# Application
+

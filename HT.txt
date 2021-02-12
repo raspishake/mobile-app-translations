@@ -181,7 +181,7 @@ Kont ou te anrejistre, yon imèl te voye nan adrès ki anrejistre nan kont ou. Y
 Te gen erè validation, tanpri eseye ankò
 
 # Username
-Non itilizatè 
+Non itilizatè
 
 # your Username
 Non itilizatè ou
@@ -463,3 +463,53 @@ Evènman
 
 # Stations
 Estasyon
+
+# January
+
+# February
+
+# March
+
+# April
+
+# May
+
+# June
+
+# July
+
+# August
+
+# September
+
+# October
+
+# November
+
+# December
+
+# Sun
+// Abbreviation of Sunday
+
+# Mon
+// Abbreviation of Monday
+
+# Tue
+// Abbreviation of Tuesday
+
+# Wed
+// Abbreviation of Wednesday
+
+# Thu
+// Abbreviation of Thursday
+
+# Fri
+// Abbreviation of Friday
+
+# Sat
+// Abbreviation of Saturday
+
+# Select a Day of DATA
+
+# Application
+

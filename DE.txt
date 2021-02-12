@@ -125,7 +125,7 @@ Anfrage fehlgeschlagen!
 Während der Anfrage trat ein Fehler auf.
 
 # Use the same email address to register as you used to configure your Raspberry Shake. If you do not own a Raspberry Shake, any email address will work.
-Nutze die gleiche EMail Adresse mit der durch dich auch registriert hast um deinen Raspberry Shake zu konfigurieren. Falls du keinen Raspberry Shake besitzt, funktioniert auch jede andere Adresse. 
+Nutze die gleiche EMail Adresse mit der durch dich auch registriert hast um deinen Raspberry Shake zu konfigurieren. Falls du keinen Raspberry Shake besitzt, funktioniert auch jede andere Adresse.
 
 # E-mail
 EMail
@@ -214,6 +214,7 @@ Wähle die Region aus
 
 # World
 Welt
+
 # This version is no longer supported. Please check the Play Store for the official Raspberry Shake App.
 Diese Version wird nicht länger unterstützt. Bitte besuche den Play Store um die offizielle Raspberry Shake App zu erhalten.
 
@@ -396,7 +397,7 @@ logarithmische Skala
 Station offline
 
 # live
-live 
+live
 
 # No Station found
 Keine Station gefunden
@@ -420,7 +421,7 @@ Amplitude
 Wellenformen, die P- und S- Ankünfte anzeigen
 
 # Counts
-Anzahl 
+Anzahl
 
 # Offline
 Offline
@@ -458,3 +459,8 @@ Erdbeben
 
 # Stations
 Stationen
+
+# Select a Day of DATA
+
+# #Earthquake event recorded on the #RaspberryShake #CitizenScience seismic network. See what's shaking near you with the @raspishake #ShakeNet mobile app
+

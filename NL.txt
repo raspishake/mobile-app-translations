@@ -59,7 +59,7 @@ Gisteren
 Mijn Shake
 
 # Unfollow
-Niet meer volgen	
+Niet meer volgen
 
 # 24-hr Plot
 24-hr plot
@@ -84,7 +84,7 @@ Profiel
 Eenheden
 
 # Appearance
-Uiterlijk	
+Uiterlijk
 
 # About Raspberry Shake
 Over Raspberry Shake
@@ -431,7 +431,7 @@ Metingen
 Offline
 
 # Server unavailable, please try again later
-Server niet beschikbaar, probeer later a.u.b. opnieuw 
+Server niet beschikbaar, probeer later a.u.b. opnieuw
 
 # No data
 Geen data
@@ -463,3 +463,6 @@ Evenementen
 
 # Stations
 Stations
+
+# Select a Day of DATA
+

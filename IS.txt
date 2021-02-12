@@ -72,7 +72,7 @@ Deila
 
 # Follow stations on the station map
 // means to select a station to follow for display on 'My Shake' Main page
-Fylgja stöðvum á stöðvakortinu 
+Fylgja stöðvum á stöðvakortinu
 
 # Settings
 Stillingar
@@ -117,7 +117,7 @@ Lykilorð endursett
 Beiðni send!
 
 # Your password request has been sent. If the requested e-mail has been registered it will receive an e-mail swiftly.
-Beiðni þín um lykilorð hefur verið send. Ef netfangið hefur verið skráð berst pósturinn fljótt. 
+Beiðni þín um lykilorð hefur verið send. Ef netfangið hefur verið skráð berst pósturinn fljótt.
 
 # Request failed!
 Beiðni mistókst!
@@ -136,7 +136,7 @@ Sláðu inn netfang þitt
 
 # Reset Password
 // as a verb
-Endursetja lykilorð 
+Endursetja lykilorð
 
 # Successfully authenticated!
 Auðkenning tókst!
@@ -166,7 +166,7 @@ Sláðu inn lykilorð þitt
 Gleymt lykilorð?
 
 # Register
-Innskrá 
+Innskrá
 
 # Registration
 Innskráning
@@ -463,3 +463,6 @@ Atburðir
 
 # Stations
 Stöðvar
+
+# Select a Day of DATA
+
