@@ -1,37 +1,37 @@
 # No stations defined
-Nenhuma estação definida
+Nenhuma estaÃ§Ã£o definida
 
 # MY STATIONS
-Minhas estações
+Minhas estaÃ§Ãµes
 
 # FOLLOWING
 // means the stations that a person has FOLLOWED from the station screen / map
 Seguindo
 
 # You have to be logged in to see station data for this earthquake
-Você precisa estar logado para ver os dados da estação para este sismo.
+VocÃª precisa estar logado para ver os dados da estaÃ§Ã£o para este sismo.
 
 # Please connect your station to your profile to see station data for this earthquake
-Por favor conecte sua estação ao seu perfil para ver os dados da estação para este sismo.
+Por favor conecte sua estaÃ§Ã£o ao seu perfil para ver os dados da estaÃ§Ã£o para este sismo.
 
 # Login
 // as a verb
 Login
 
 # Or follow any other station from the global community
-Ou siga alguma outra estação da comunidade global
+Ou siga alguma outra estaÃ§Ã£o da comunidade global
 
 # Explore Stations
-Procurar estações 
+Procurar estaÃ§Ãµes
 
 # Connection Timeout
-Tempo limite de conexão excedido
+Tempo limite de conexÃ£o excedido
 
 # The data might not be complete
-Os dados podem não estar completos
+Os dados podem nÃ£o estar completos
 
 # Distance
-Distância
+DistÃ¢ncia
 
 # Magnitude %1+
 Magnitude %1+
@@ -41,7 +41,7 @@ Magnitude %1+
 %1  Distante
 
 # Ground Motion below %1 m/s
-Movimentação do chão menor que %1 m/s
+MovimentaÃ§Ã£o do chÃ£o menor que %1 m/s
 
 # Today
 Hoje
@@ -68,14 +68,14 @@ Deixar de seguir
 Compartilhar
 
 # You are currently not following any stations.
-No momento você não está seguindo nenhuma estação
+No momento vocÃª nÃ£o estÃ¡ seguindo nenhuma estaÃ§Ã£o
 
 # Follow stations on the station map
 // means to select a station to follow for display on 'My Shake' Main page
-Siga as estações de interesse no mapa de estações
+Siga as estaÃ§Ãµes de interesse no mapa de estaÃ§Ãµes
 
 # Settings
-Configurações
+ConfiguraÃ§Ãµes
 
 # Profile
 Perfil
@@ -84,50 +84,49 @@ Perfil
 Unidades
 
 # Appearance
-Aparência
+AparÃªncia
 
 # About Raspberry Shake
 Sobre Raspberry Shake
 
 # Clear cache
-Limpar o cache 
+Limpar o cache
 
 # Logout
 Logout
 
 # %1 Stations online
-%1 estações online
+%1 estaÃ§Ãµes online
 
 # %1 Stations found
-%1 estações encontradas
+%1 estaÃ§Ãµes encontradas
 
 # Enter station ID
-Insira o ID da estação
+Insira o ID da estaÃ§Ã£o
 
 # You are now following station %1
-você esta seguindo agora a estação %1
+vocÃª esta seguindo agora a estaÃ§Ã£o %1
 
 # You are now no longer following station %1
-você não esta mais seguindo a estação %1
+vocÃª nÃ£o esta mais seguindo a estaÃ§Ã£o %1
 
 # Password Reset
 Redefinir senha
 
 # Request sent!
-solicitação enviada
-
+solicitaÃ§Ã£o enviada
 
 # Your password request has been sent. If the requested e-mail has been registered it will receive an e-mail swiftly.
-Sua solicitação de senha foi enviada. Caso o e-mail solicitado tenha sido cadastrado receberá um e-mail em breve
+Sua solicitaÃ§Ã£o de senha foi enviada. Caso o e-mail solicitado tenha sido cadastrado receberÃ¡ um e-mail em breve
 
 # Request failed!
 O pedido falhou
 
 # An error occurred while sending the request.
-Ocorreu um erro ao enviar a solicitação.
+Ocorreu um erro ao enviar a solicitaÃ§Ã£o.
 
 # Use the same email address to register as you used to configure your Raspberry Shake. If you do not own a Raspberry Shake, any email address will work.
-Use o mesmo endereço de Email que você cadastrou para configurar o seu Raspberry Shake. Se você não possui um Raspberry Shake, qualquer endereço de e-mail funcionará.
+Use o mesmo endereÃ§o de Email que vocÃª cadastrou para configurar o seu Raspberry Shake. Se vocÃª nÃ£o possui um Raspberry Shake, qualquer endereÃ§o de e-mail funcionarÃ¡.
 
 # E-mail
 Email
@@ -146,16 +145,16 @@ Autenticado com sucesso!
 Seus dados foram recuperados.
 
 # Authentication failed!
-Falha na autenticação
+Falha na autenticaÃ§Ã£o
 
 # The username/password combination was not valid, please try again.
-A combinação usuário/senha não é válida, tente novamente.
+A combinaÃ§Ã£o usuÃ¡rio/senha nÃ£o Ã© vÃ¡lida, tente novamente.
 
 # Please use the same login that you use for ShakeNet
-Por favor, use o mesmo acesso que você usa para ShakeNet
+Por favor, use o mesmo acesso que vocÃª usa para ShakeNet
 
 # Username/E-mail
-Usuário/E-mail
+UsuÃ¡rio/E-mail
 
 # Password
 Senha
@@ -175,18 +174,17 @@ Cadastro
 # Successfully registered!
 Cadastrado com sucesso
 
-
 # Your account has been registered, an e-mail has been sent to registered address. Once confirmed you will be able to login with this account.
-Sua conta foi registrada, um e-mail foi enviado para o endereço cadastrado. Uma vez confirmado, você poderá acessar com esta conta.
+Sua conta foi registrada, um e-mail foi enviado para o endereÃ§o cadastrado. Uma vez confirmado, vocÃª poderÃ¡ acessar com esta conta.
 
 # There were validation errors, please try again.
-Ocorreram erros de validação, tente novamente
+Ocorreram erros de validaÃ§Ã£o, tente novamente
 
 # Username
-Usuário
+UsuÃ¡rio
 
 # your Username
-Seu Usuário
+Seu UsuÃ¡rio
 
 # First name
 Primeiro nome
@@ -196,7 +194,6 @@ Sobrenome
 
 # Confirm password
 Confirmar senha
-
 
 # %1 Earthquakes
 %1  Sismos
@@ -211,19 +208,19 @@ Mapa
 Aplicar
 
 # Region
-Região
+RegiÃ£o
 
 # Select the region you are interested in
-Selecione a região de interesse
+Selecione a regiÃ£o de interesse
 
 # World
 Mundo
 
 # This version is no longer supported. Please check the Play Store for the official Raspberry Shake App.
-Esta versão não é mais compatível. Verifique na Play Store o aplicativo oficial do Raspberry Shake
+Esta versÃ£o nÃ£o Ã© mais compatÃ­vel. Verifique na Play Store o aplicativo oficial do Raspberry Shake
 
 # Ok
-ok 
+ok
 
 # %1 to %2
 // Event filter in Magnitude(5.2 to 9.5) or Depth(194 km to 0 km)
@@ -248,16 +245,16 @@ Data
 Magnitude
 
 # Relevance
-Relevância
+RelevÃ¢ncia
 
 # Filter Earthquakes By
 Filtrar sismos por
 
 # min
-Min (Mínimo)
+Min (MÃ­nimo)
 
 # max
-Máx (Máximo)
+MÃ¡x (MÃ¡ximo)
 
 # Depth
 Profundidade
@@ -265,22 +262,21 @@ Profundidade
 # Time
 Hora
 
-
 # %1 day(s) ago
-%1 dias atrás
+%1 dias atrÃ¡s
 
 # between %1 and %2 days ago
-entre %1  e %2  dias atrás
+entre %1  e %2  dias atrÃ¡s
 
 # days
 dias
 
 # between %1 and %2 away
 // Event filter in Distance(between 0 and 20000 km away)
-entre %1 e %2 de distância
+entre %1 e %2 de distÃ¢ncia
 
 # Distance to your location
-Distância até sua localização
+DistÃ¢ncia atÃ© sua localizaÃ§Ã£o
 
 # Whole World
 Mundo inteiro
@@ -292,35 +288,34 @@ Mundo inteiro
 Alterar filtros
 
 # Most recent earthquakes first
-últimos terremotos primeiro
+Ãºltimos terremotos primeiro
 
 # Closest earthquakes first, relative to device's location
-terremotos próximos primeiro, em relação à localização do dispositivo
+terremotos prÃ³ximos primeiro, em relaÃ§Ã£o Ã  localizaÃ§Ã£o do dispositivo
 
 # Largest earthquake first
 maiores terremotos primeiro.
 
 # Strongest close-by earthquake first, relative to device's location
-O terremoto próximo mais forte primeiro, em relação à localização do dispositivo
+O terremoto prÃ³ximo mais forte primeiro, em relaÃ§Ã£o Ã  localizaÃ§Ã£o do dispositivo
 
 # #Earthquake recorded on the #RaspberryShake #CitizenScience seismic network. See what's shaking near you with the @raspishake #ShakeNet mobile app
-Terremoto registrado na rede sísmica #RaspberryShake #CitizenScience. Veja o que está tremendo perto de você com o aplicativo móvel @raspishake #ShakeNet
+Terremoto registrado na rede sÃ­smica #RaspberryShake #CitizenScience. Veja o que estÃ¡ tremendo perto de vocÃª com o aplicativo mÃ³vel @raspishake #ShakeNet
 
 # #Earthquake event recorded on the #RaspberryShake #CitizenScience seismic network. See what's shaking near you with the @raspishake #ShakeNet mobile app
 
-
 # 24-hr Plot data recorded on the #RaspberryShake #CitizenScience seismic network. See what's shaking near you with the @raspishake #ShakeNet mobile app
-Gráfico de dados 24-hr registrados na rede sísmica #RaspberryShake #CitizenScience. Veja o que está tremendo perto de você com o aplicativo móvel @raspishake #ShakeNet
+GrÃ¡fico de dados 24-hr registrados na rede sÃ­smica #RaspberryShake #CitizenScience. Veja o que estÃ¡ tremendo perto de vocÃª com o aplicativo mÃ³vel @raspishake #ShakeNet
 
 # About
 Sobre
 
 # Address
 // this represents a physical address
-Endereço
+EndereÃ§o
 
 # Helpful Links
-Links úteis
+Links Ãºteis
 
 # Company Website
 site da companhia
@@ -329,7 +324,7 @@ site da companhia
 Loja virtual
 
 # Tech Forum
-Fórum técnico
+FÃ³rum tÃ©cnico
 
 # Contact
 Contato
@@ -338,10 +333,10 @@ Contato
 Redes Sociais
 
 # APP Information
-Informação do aplicativo
+InformaÃ§Ã£o do aplicativo
 
 # Version
-Versão
+VersÃ£o
 
 # THEME
 Tema
@@ -353,80 +348,71 @@ Tema claro
 Tema escuro
 
 # OFFLINE Stations
-estações OFFLINE
+estaÃ§Ãµes OFFLINE
 
 # HIDE
 Esconder
 
 # Languages
-Línguas
-
-# English
-Inglês
-
-# French
-Francês
-
-# Vietnamese
-Vietnamita
+LÃ­nguas
 
 # Media
 // as in social media websites
-Mídias sociais
+MÃ­dias sociais
 
 # City / State
 Cidade/ Estado
 
 # Country
-País
+PaÃ­s
 
 # Your Website
 Seu site
 
 # Amateur Radio Call Sign
-Frequencia de rádio amador? (we are not sure)
+Frequencia de rÃ¡dio amador? (we are not sure)
 
 # Distances
-Distâncias
+DistÃ¢ncias
 
 # Kilometers / Meters
-Quilômetros / Metros
+QuilÃ´metros / Metros
 
 # Miles / Feet
-Milhas / Pés
+Milhas / PÃ©s
 
 # Frequency
-Frequência
+FrequÃªncia
 
 # Frequency data showing distribution of energy across resolvable frequencies
-Dados de frequência mostrando a distribuição de energia em frequências aplicáveis
+Dados de frequÃªncia mostrando a distribuiÃ§Ã£o de energia em frequÃªncias aplicÃ¡veis
 
 # Frequency in Hz
-Frequência em Hz
+FrequÃªncia em Hz
 
 # Spectrogram Fine Tuning
 Ajuste fino do espectrograma
 
 # Log-Scale
-Escala logarítmica
+Escala logarÃ­tmica
 
 # Station offline
-estação OFFLINE
+estaÃ§Ã£o OFFLINE
 
 # live
 Ao vivo
 
 # No Station found
-Nenhuma estação encontrada
+Nenhuma estaÃ§Ã£o encontrada
 
 # No Channel found
 Nenhum canal encontrado
 
 # unknown station
-Estação desconhecida
+EstaÃ§Ã£o desconhecida
 
 # unknown Region
-Região desconhecida
+RegiÃ£o desconhecida
 
 # Waveform
 Forma de onda
@@ -444,10 +430,10 @@ Contas
 Offline / Desconetado
 
 # Server unavailable, please try again later
-Servidor não disponível, tente novamente mais tarde
+Servidor nÃ£o disponÃ­vel, tente novamente mais tarde
 
 # No data
-Sem dados disponíveis
+Sem dados disponÃ­veis
 
 # Trace Filter
 filtro de forma de onda
@@ -465,7 +451,7 @@ Local 3.0 - 8.0 Hz
 Muito local 3.0 - 20.0 Hz
 
 # Elevation
-Eleveção
+EleveÃ§Ã£o
 
 # unfiltered
 // refers to a filter being applied to a waveform on display
@@ -475,4 +461,7 @@ sem filtro
 Eventos
 
 # Stations
-Estações
+EstaÃ§Ãµes
+
+# Application
+
