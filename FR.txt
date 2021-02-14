@@ -466,5 +466,3 @@ Stations
 
 # Select a Day of DATA
 
-# Application
-

@@ -333,8 +333,7 @@ Contact
 # Social Media
 Sociale Media
 
-# Application
-Applicatie
+# APP Information
 
 # Version
 Versie

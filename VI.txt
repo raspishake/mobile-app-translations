@@ -333,8 +333,8 @@ Liên hệ
 # Social Media
 Mạng xã hội
 
-# Application
-Ứng dụng
+# APP Information
+Thông tin ứng dụng
 
 # Version
 Phiên bản

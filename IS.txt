@@ -333,8 +333,7 @@ Tengiliður
 # Social Media
 Samfélagsmiðlar
 
-# Application
-<WHAT IS THE CONTEXT?!?)
+# APP Information
 
 # Version
 Útgáfa

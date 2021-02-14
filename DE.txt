@@ -329,8 +329,7 @@ Kontakt
 # Social Media
 Soziale Medien
 
-# Application
-Anwendung
+# APP Information
 
 # Version
 Version
