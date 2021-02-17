@@ -16,7 +16,7 @@ Vinsamlegast tengdu stöðina þína við sniðið þitt til að sjá gögn stö
 
 # Login
 // as a verb
-< could be "Innskrá" but it depends on if this word is a verb or a noun!!>
+Skrá inn
 
 # Or follow any other station from the global community
 Eða fylgdu annarri stöð frá heimssamfélaginu
@@ -334,6 +334,7 @@ Tengiliður
 Samfélagsmiðlar
 
 # APP Information
+APP Upplýsingar
 
 # Version
 Útgáfa
@@ -464,4 +465,4 @@ Atburðir
 Stöðvar
 
 # Select a Day of DATA
-
+Veldu Gagnadag

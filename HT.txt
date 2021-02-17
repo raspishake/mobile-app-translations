@@ -465,49 +465,68 @@ Evènman
 Estasyon
 
 # January
+Janvye
 
 # February
+Fevriye
 
 # March
+Mas
 
 # April
+Avril
 
 # May
+Me
 
 # June
+Jen
 
 # July
+Jiyè
 
 # August
+Out
 
 # September
+Septanm
 
 # October
+Oktòb
 
 # November
+Novanm
 
 # December
+Desanm
 
 # Sun
 // Abbreviation of Sunday
+Dim
 
 # Mon
 // Abbreviation of Monday
+Lendi
 
 # Tue
 // Abbreviation of Tuesday
+Madi
 
 # Wed
 // Abbreviation of Wednesday
+Mèkredi
 
 # Thu
 // Abbreviation of Thursday
+Jedi
 
 # Fri
 // Abbreviation of Friday
+Vandredi
 
 # Sat
 // Abbreviation of Saturday
+Samdi
 
 # Select a Day of DATA
-
+Chwazi yon jou nan done yo

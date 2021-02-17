@@ -6,6 +6,7 @@ Meine Stationen
 
 # FOLLOWING
 // means the stations that a person has FOLLOWED from the station screen / map
+FOLGENDEN
 
 # You have to be logged in to see station data for this earthquake
 Du musst dich einloggen um die Stationsdaten für dieses Erdbeben zu sehen.
@@ -330,6 +331,7 @@ Kontakt
 Soziale Medien
 
 # APP Information
+APP-Informationen
 
 # Version
 Version
@@ -460,6 +462,7 @@ Erdbeben
 Stationen
 
 # Select a Day of DATA
+Wählen Sie einen Datentag aus
 
-# #Earthquake event recorded on the #RaspberryShake #CitizenScience seismic network. See what's shaking near you with the @raspishake #ShakeNet mobile app
-
+# #Earthquake event recorded on the #RaspberryShake #CitizenScience seismic network. See what's shaking near you with the @raspishake #ShakeNet mobile-app
+Erdbebenereignis, das im seismischen Netzwerk #RaspberryShake #CitizenScience aufgezeichnet wurde.  See what's shaking near you with the @raspishake #ShakeNet mobile-app

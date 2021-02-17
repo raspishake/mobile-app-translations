@@ -334,6 +334,7 @@ Contact
 Sociale Media
 
 # APP Information
+APP-informatie
 
 # Version
 Versie
@@ -464,4 +465,4 @@ Evenementen
 Stations
 
 # Select a Day of DATA
-
+Selecteer een dag van DATA

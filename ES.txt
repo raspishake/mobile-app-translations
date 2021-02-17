@@ -334,6 +334,7 @@ Contacto
 Redes sociales
 
 # APP Information
+Información de la APP
 
 # Version
 Versión
@@ -464,4 +465,4 @@ Eventos
 Estaciones
 
 # Select a Day of DATA
-
+Seleccione un día de DATOS
