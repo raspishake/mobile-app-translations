@@ -1,5 +1,5 @@
 # No stations defined
-没有选定测站
+未选定测站
 
 # MY STATIONS
 我的测站
@@ -9,10 +9,10 @@
 收藏的测站
 
 # You have to be logged in to see station data for this earthquake
-您必须先登录才能查看此地震的测站数据
+您必须先登录才能查看该地震的测站数据
 
 # Please connect your station to your profile to see station data for this earthquake
-请将您的测站绑定到您的账号上，以查看此地震的测站数据
+请将您的测站绑定到您的账号上以查看此地震的测站数据
 
 # Login
 // as a verb
@@ -50,10 +50,10 @@
 昨日
 
 # %1 Earthquakes total
-%1 地震总数
+地震总数 %1
 
 # %1 in current filter
-当前过滤设定中的地震数为 %1
+已过滤的地震数为 %1
 
 # My Shake
 我的测站
@@ -72,7 +72,7 @@
 
 # Follow stations on the station map
 // means to select a station to follow for display on 'My Shake' Main page
-到测站地图上收藏测站
+到全球测站地图上收藏测站
 
 # Settings
 设定
@@ -117,7 +117,7 @@
 请求已发送
 
 # Your password request has been sent. If the requested e-mail has been registered it will receive an e-mail swiftly.
-密码重设请求已发送，如果该邮箱已注册，您将收到一封电子邮件。
+密码重设请求已发送，如果该邮箱已注册您将收到一封电子邮件。
 
 # Request failed!
 请求失败！
@@ -126,7 +126,7 @@
 发送请求时发生错误。
 
 # Use the same email address to register as you used to configure your Raspberry Shake. If you do not own a Raspberry Shake, any email address will work.
-使用配置Raspberry Shake时所设定的邮箱进行注册， 如果您没有Raspberry Shake，也可以使用其他邮箱进行注册。
+使用配置Raspberry Shake时所设定的邮箱进行注册， 如果没有Raspberry Shake，您也可以使用其他邮箱进行注册。
 
 # E-mail
 电子邮箱
@@ -175,7 +175,7 @@
 注册成功！
 
 # Your account has been registered, an e-mail has been sent to registered address. Once confirmed you will be able to login with this account.
-您的帐户已注册，一封确认邮件已发送到您的邮箱。 确认后，您将可以使用该帐户登录。
+您的帐户已注册，一封确认邮件已发送到您的邮箱。 确认后您将可以使用该帐户登录。
 
 # There were validation errors, please try again.
 验证失败，请重试。
@@ -217,7 +217,7 @@
 世界
 
 # This version is no longer supported. Please check the Play Store for the official Raspberry Shake App.
-该版本已停止支持，请到Play商店中下载最新的Raspberry Shake APP。
+该软件版本已停止支持，请到Play商店中下载最新的Raspberry Shake。
 
 # Ok
 确认
@@ -288,16 +288,16 @@
 清除过滤设定
 
 # Most recent earthquakes first
-最近的地震优先
+日期最近的地震优先
 
 # Closest earthquakes first, relative to device's location
-Closest earthquakes first, relative to device's location
+距离最近的地震优先
 
 # Largest earthquake first
 震级最大的地震优先
 
 # Strongest close-by earthquake first, relative to device's location
-Strongest close-by earthquake first, relative to device's location
+震级大且距离最近的地震优先
 
 # #Earthquake recorded on the #RaspberryShake #CitizenScience seismic network. See what's shaking near you with the @raspishake #ShakeNet mobile app
 #Earthquake recorded on the #RaspberryShake #CitizenScience seismic network. See what's shaking near you with the @raspishake #ShakeNet mobile app
@@ -386,7 +386,7 @@ Strongest close-by earthquake first, relative to device's location
 频率
 
 # Frequency data showing distribution of energy across resolvable frequencies
-Frequency data showing distribution of energy across resolvable frequencies
+频谱图显示各频率震动的分布
 
 # Frequency in Hz
 频率(Hz)
@@ -395,7 +395,7 @@ Frequency data showing distribution of energy across resolvable frequencies
 频谱微调
 
 # Log-Scale
-Log-Scale
+对数标尺
 
 # Station offline
 测站离线
