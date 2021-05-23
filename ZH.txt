@@ -300,13 +300,13 @@
 震级大且距离最近的地震优先
 
 # #Earthquake recorded on the #RaspberryShake #CitizenScience seismic network. See what's shaking near you with the @raspishake #ShakeNet mobile app
-#Earthquake recorded on the #RaspberryShake #CitizenScience seismic network. See what's shaking near you with the @raspishake #ShakeNet mobile app
+由 #RaspberryShake #CitizenScience 地震网记录的地震，使用 @raspishake #ShakeNet 软件查看附近正在发生的地震。
 
 # #Earthquake event recorded on the #RaspberryShake #CitizenScience seismic network. See what's shaking near you with the @raspishake #ShakeNet mobile app
-#Earthquake event recorded on the #RaspberryShake #CitizenScience seismic network. See what's shaking near you with the @raspishake #ShakeNet mobile app
+由 #RaspberryShake #CitizenScience 地震网记录的地震，使用 @raspishake #ShakeNet 软件查看附近正在发生的地震。
 
 # 24-hr Plot data recorded on the #RaspberryShake #CitizenScience seismic network. See what's shaking near you with the @raspishake #ShakeNet mobile app
-#RaspberryShake #CitizenScience seismic network. See what's shaking near you with the @raspishake #ShakeNet mobile app
+由 #RaspberryShake #CitizenScience 地震网记录的24小时地震波形，使用 @raspishake #ShakeNet 软件查看附近正在发生的地震。
 
 # About
 关于
