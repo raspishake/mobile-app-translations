@@ -1,0 +1,468 @@
+# No stations defined
+未选定测站
+
+# MY STATIONS
+我的测站
+
+# FOLLOWING
+// means the stations that a person has FOLLOWED from the station screen / map
+收藏的测站
+
+# You have to be logged in to see station data for this earthquake
+您必须先登录才能查看该地震的测站数据
+
+# Please connect your station to your profile to see station data for this earthquake
+请将您的测站绑定到您的账号上以查看此地震的测站数据
+
+# Login
+// as a verb
+登录
+
+# Or follow any other station from the global community
+或收藏全球社区内的其他测站
+
+# Explore Stations
+搜索测站
+
+# Connection Timeout
+连接超时
+
+# The data might not be complete
+数据可能不完整
+
+# Distance
+距离
+
+# Magnitude %1+
+震级 %1+
+
+# %1 away
+// as a distance _away_ from phone's current location
+%1 以外
+
+# Ground Motion below %1 m/s
+%1m/s 以下的地面震动
+
+# Today
+今日
+
+# Yesterday
+昨日
+
+# %1 Earthquakes total
+地震总数 %1
+
+# %1 in current filter
+已过滤的地震数为 %1
+
+# My Shake
+我的测站
+
+# Unfollow
+取消收藏
+
+# 24-hr Plot
+24小时波形图
+
+# Share
+分享
+
+# You are currently not following any stations.
+您目前没有收藏任何测站
+
+# Follow stations on the station map
+// means to select a station to follow for display on 'My Shake' Main page
+到全球测站地图上收藏测站
+
+# Settings
+设定
+
+# Profile
+个人资料
+
+# Units
+单位
+
+# Appearance
+外观设定
+
+# About Raspberry Shake
+关于Raspberry Shake
+
+# Clear cache
+清除缓存
+
+# Logout
+注销
+
+# %1 Stations online
+在线测站 %1 个
+
+# %1 Stations found
+找到 %1 个测站
+
+# Enter station ID
+输入测站ID
+
+# You are now following station %1
+您目前收藏的测站 %1
+
+# You are now no longer following station %1
+不再收藏该测站 %1
+
+# Password Reset
+重设密码
+
+# Request sent!
+请求已发送
+
+# Your password request has been sent. If the requested e-mail has been registered it will receive an e-mail swiftly.
+密码重设请求已发送，如果该邮箱已注册您将收到一封电子邮件。
+
+# Request failed!
+请求失败！
+
+# An error occurred while sending the request.
+发送请求时发生错误。
+
+# Use the same email address to register as you used to configure your Raspberry Shake. If you do not own a Raspberry Shake, any email address will work.
+使用配置Raspberry Shake时所设定的邮箱进行注册， 如果没有Raspberry Shake，您也可以使用其他邮箱进行注册。
+
+# E-mail
+电子邮箱
+
+# Enter your E-mail
+输入您的邮箱地址
+
+# Reset Password
+// as a verb
+重设密码
+
+# Successfully authenticated!
+认证成功！
+
+# Your data has been retrieved.
+您的请求已被接受。
+
+# Authentication failed!
+认证失败！
+
+# The username/password combination was not valid, please try again.
+错误的用户名或密码，请重新输入。
+
+# Please use the same login that you use for ShakeNet
+请使用与ShakeNet相同的用户名。
+
+# Username/E-mail
+用户名／电子邮箱
+
+# Password
+密码
+
+# Enter your password
+输入密码
+
+# Forgot your password?
+忘记密码?
+
+# Register
+注册
+
+# Registration
+注册
+
+# Successfully registered!
+注册成功！
+
+# Your account has been registered, an e-mail has been sent to registered address. Once confirmed you will be able to login with this account.
+您的帐户已注册，一封确认邮件已发送到您的邮箱。 确认后您将可以使用该帐户登录。
+
+# There were validation errors, please try again.
+验证失败，请重试。
+
+# Username
+用户名
+
+# your Username
+您的用户名
+
+# First name
+名
+
+# Last name
+姓
+
+# Confirm password
+确认密码
+
+# %1 Earthquakes
+%1 个地震
+
+# List
+列表
+
+# Map
+地图
+
+# Apply
+应用
+
+# Region
+地区
+
+# Select the region you are interested in
+选择一个您感兴趣的地区
+
+# World
+世界
+
+# This version is no longer supported. Please check the Play Store for the official Raspberry Shake App.
+该软件版本已停止支持，请到Play商店中下载最新的Raspberry Shake。
+
+# Ok
+确认
+
+# %1 to %2
+// Event filter in Magnitude(5.2 to 9.5) or Depth(194 km to 0 km)
+%1 到 %2
+
+# Sort & Filter
+排序和过滤设定
+
+# Sort
+排序方式
+
+# Filter
+过滤设定
+
+# Sort Earthquakes By
+按照以下方式对地震进行排序
+
+# Date
+日期
+
+# Magnitude
+震级
+
+# Relevance
+相关性
+
+# Filter Earthquakes By
+按照以下方式对地震进行过滤
+
+# min
+最小值
+
+# max
+最大值
+
+# Depth
+深度
+
+# Time
+时间
+
+# %1 day(s) ago
+%1 天前
+
+# between %1 and %2 days ago
+在 %1 到 %2 天以内
+
+# days
+天
+
+# between %1 and %2 away
+// Event filter in Distance(between 0 and 20000 km away)
+在 %1 到 %2 以内
+
+# Distance to your location
+到您的位置的距离
+
+# Whole World
+全世界
+
+# %1 Earthquakes in this filter
+已过滤的地震 %1
+
+# Reset filters
+清除过滤设定
+
+# Most recent earthquakes first
+日期最近的地震优先
+
+# Closest earthquakes first, relative to device's location
+距离最近的地震优先
+
+# Largest earthquake first
+震级最大的地震优先
+
+# Strongest close-by earthquake first, relative to device's location
+震级大且距离最近的地震优先
+
+# #Earthquake recorded on the #RaspberryShake #CitizenScience seismic network. See what's shaking near you with the @raspishake #ShakeNet mobile app
+由 #RaspberryShake #CitizenScience 地震网记录的地震，使用 @raspishake #ShakeNet 软件查看附近正在发生的地震。
+
+# #Earthquake event recorded on the #RaspberryShake #CitizenScience seismic network. See what's shaking near you with the @raspishake #ShakeNet mobile app
+由 #RaspberryShake #CitizenScience 地震网记录的地震，使用 @raspishake #ShakeNet 软件查看附近正在发生的地震。
+
+# 24-hr Plot data recorded on the #RaspberryShake #CitizenScience seismic network. See what's shaking near you with the @raspishake #ShakeNet mobile app
+由 #RaspberryShake #CitizenScience 地震网记录的24小时地震波形，使用 @raspishake #ShakeNet 软件查看附近正在发生的地震。
+
+# About
+关于
+
+# Address
+// this represents a physical address
+地址
+
+# Helpful Links
+相关链接
+
+# Company Website
+官方网站
+
+# Online Shop
+在线商店
+
+# Tech Forum
+技术论坛
+
+# Contact
+联系我们
+
+# Social Media
+社交媒体
+
+# APP Information
+应用信息
+
+# Version
+当前版本
+
+# THEME
+主题
+
+# Light Theme
+正常
+
+# Dark Theme
+暗黑
+
+# OFFLINE Stations
+离线测站
+
+# HIDE
+隐藏
+
+# Languages
+语言
+
+# Media
+// as in social media websites
+社交
+
+# City / State
+城市／区
+
+# Country
+国家
+
+# Your Website
+个人网站
+
+# Amateur Radio Call Sign
+业余无线电呼号
+
+# Distances
+距离
+
+# Kilometers / Meters
+千米 / 米
+
+# Miles / Feet
+英里 / 英尺
+
+# Frequency
+频率
+
+# Frequency data showing distribution of energy across resolvable frequencies
+频谱图显示各频率震动的分布
+
+# Frequency in Hz
+频率(Hz)
+
+# Spectrogram Fine Tuning
+频谱微调
+
+# Log-Scale
+对数标尺
+
+# Station offline
+测站离线
+
+# live
+实时
+
+# No Station found
+未找到测站
+
+# No Channel found
+未找到频道
+
+# unknown station
+未知的测站
+
+# unknown Region
+未知的地区
+
+# Waveform
+波型
+
+# Amplitude
+振幅
+
+# Waveform data showing P- and S-wave arrival times
+显示P波和S波到达时的波形图
+
+# Counts
+计数
+
+# Offline
+离线
+
+# Server unavailable, please try again later
+服务器不可用，请稍后再试。
+
+# No data
+无数据
+
+# Trace Filter
+波形滤波
+
+# Global 0.1 - 0.8 Hz
+全球 0.1 – 0.8 Hz
+
+# Regional 0.7 - 2.0 Hz
+区域 0.7 – 2.0 Hz
+
+# Local 3.0 - 8.0 Hz
+本地 3.0 – 8.0 Hz
+
+# Hyper Local 3.0 - 20.0 Hz
+局部 3.0 – 20.0 Hz
+
+# Elevation
+海拔
+
+# unfiltered
+// refers to a filter being applied to a waveform on display
+无滤波
+
+# Events
+地震
+
+# Stations
+测站
+
+# Select a Day of DATA
+选择一个日期
