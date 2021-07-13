@@ -6,6 +6,7 @@ ISTASYONLARIM
 
 # FOLLOWING
 // means the stations that a person has FOLLOWED from the station screen / map
+TAKİP EDİLİYOR
 
 # You have to be logged in to see station data for this earthquake
 Bu depreme ait istasyon verisini görmek için login olmanız gerekmektedir
@@ -27,13 +28,13 @@ veya global topluluğa ait cihazlardan herhangi birini takip edin
 Bağlantı zaman aşımına uğradı
 
 # The data might not be complete
-Veri henüz tamamlanmamış olabilir.
+Veri henüz tamamlanmamış olabilir
 
 # Distance
 Mesafe
 
 # Magnitude %1+
-Yükseklik %1+
+Büyüklük %1+
 
 # %1 away
 // as a distance _away_ from phone's current location
@@ -55,6 +56,7 @@ Dün
 Mevcut filtredeki %1
 
 # My Shake
+Benim Shake'im
 
 # Unfollow
 Takibi bırak
@@ -70,7 +72,7 @@ Paylaş
 
 # Follow stations on the station map
 // means to select a station to follow for display on 'My Shake' Main page
-Haitadaki istasyontaki takip et
+Istasyonları haritada takip et
 
 # Settings
 Ayarlar
@@ -85,7 +87,7 @@ Birimler
 Görünüm
 
 # About Raspberry Shake
-Raspberry Shake Hakkında 
+Raspberry Shake Hakkında
 
 # Clear cache
 Önbelleği temizle
@@ -97,25 +99,25 @@ Raspberry Shake Hakkında
 %1 Çevrimiçi istasyonlar
 
 # %1 Stations found
-%1 Bulunan İstasyonlar
+%1 İstasyon bulundu
 
 # Enter station ID
 İstasyon numarasını girin
 
 # You are now following station %1
-İstasyon %1'i izliyorsunuz
+İstasyon %1'i takibe başladınız.
 
 # You are now no longer following station %1
 %1 istasyonunu artık takip etmiyorsunuz.
 
 # Password Reset
-Şifre yemile
+Şifre yenile
 
 # Request sent!
 İstek gönderildi!
 
 # Your password request has been sent. If the requested e-mail has been registered it will receive an e-mail swiftly.
-Şifreniz kayıtlı e-posta adresinizi gönderildi.
+Şifreniz kayıtlı e-posta adresinize gönderildi.
 
 # Request failed!
 İstek başarısızlığa uğradı!
@@ -185,10 +187,10 @@ Kullanıcı adı
 Kullanıcı adınız
 
 # First name
-Ad
+Adınız
 
 # Last name
-Soyad
+Soyadınız
 
 # Confirm password
 Şifreyi tekrar girin
@@ -271,7 +273,7 @@ günler
 
 # between %1 and %2 away
 // Event filter in Distance(between 0 and 20000 km away)
-%1-%2 uzaklık
+%1-%2 arası uzaklık
 
 # Distance to your location
 Konumunuza olan mesafe
@@ -286,7 +288,7 @@ Bu filtredeki %1 depremler
 Filtreleri sıfırla
 
 # Most recent earthquakes first
-Önce en yenş depremleri göster
+Önce en yeni depremleri göster
 
 # Closest earthquakes first, relative to device's location
 Cihazın konumuna en yakın depremleri önce göster
@@ -295,16 +297,16 @@ Cihazın konumuna en yakın depremleri önce göster
 En büyük depremleri önce göster
 
 # Strongest close-by earthquake first, relative to device's location
-Cihazın konumuna en yakın ve büyük depremleri önce göster.
+Cihazın konumuna en yakın ve büyük depremleri önce göster
 
 # #Earthquake recorded on the #RaspberryShake #CitizenScience seismic network. See what's shaking near you with the @raspishake #ShakeNet mobile app
-Deprem #RaspberryShake #CitizenScience seismic ağında kaydedildi. Yakınınızda olan depremlerı @raspishake #ShakeNet mobil uygulamasıyla takip edin.
+Deprem #RaspberryShake #CitizenScience seismic ağında kaydedildi. Yakınınızda olan depremleri @raspishake #ShakeNet mobil uygulamasıyla takip edin.
 
 # #Earthquake event recorded on the #RaspberryShake #CitizenScience seismic network. See what's shaking near you with the @raspishake #ShakeNet mobile app
-#RaspberryShake #CitizenScience seismic ağında kaydedilen deprem olayı. Yakınınızda olan depremlerı @raspishake #ShakeNet mobil uygulamasıyla takip edin.
+#RaspberryShake #CitizenScience seismic ağında kaydedilen deprem olayı. Yakınınızda olan depremleri @raspishake #ShakeNet mobil uygulamasıyla takip edin.
 
 # 24-hr Plot data recorded on the #RaspberryShake #CitizenScience seismic network. See what's shaking near you with the @raspishake #ShakeNet mobile app
-#RaspberryShake #CitizenScience seismic ağında kaydedilen 24-saat plot verisi. Yakınınızda olan depremlerı @raspishake #ShakeNet mobil uygulamasıyla takip edin.
+#RaspberryShake #CitizenScience seismic ağında kaydedilen 24-saat plot verisi. Yakınınızda olan depremleri @raspishake #ShakeNet mobil uygulamasıyla takip edin.
 
 # About
 Hakkında
@@ -357,6 +359,7 @@ Diller
 
 # Media
 // as in social media websites
+Sosyal Medya
 
 # City / State
 Şehir
@@ -460,3 +463,7 @@ Olaylar
 
 # Stations
 İstasyonlar
+
+# Select a Day of DATA
+Veri günü seçin
+
