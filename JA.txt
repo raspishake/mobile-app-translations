@@ -466,3 +466,6 @@ P波to S波の到着時刻を示す波型データ
 
 # Select a Day of DATA
 データの日を選択します
+
+# License
+ライセンス

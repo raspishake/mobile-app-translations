@@ -466,3 +466,6 @@ Stations
 
 # Select a Day of DATA
 Selecteer een dag van DATA
+
+# License
+Licentie

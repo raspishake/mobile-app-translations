@@ -530,3 +530,6 @@ Samdi
 
 # Select a Day of DATA
 Chwazi yon jou nan done yo
+
+# License
+Lisans

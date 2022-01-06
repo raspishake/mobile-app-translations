@@ -467,3 +467,5 @@ Trạm
 # Select a Day of DATA
 Chọn ngày tải dữ liệu
 
+# License
+Giấy phép

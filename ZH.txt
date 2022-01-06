@@ -466,3 +466,6 @@
 
 # Select a Day of DATA
 选择一个日期
+
+# License
+执照

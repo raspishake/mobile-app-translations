@@ -466,3 +466,6 @@ Estações
 
 # Select a Day of DATA
 Selecione um dia de dados
+
+# License
+Licença

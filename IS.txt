@@ -466,3 +466,6 @@ Stöðvar
 
 # Select a Day of DATA
 Veldu Gagnadag
+
+# License
+Leyfi
