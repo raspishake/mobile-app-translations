@@ -469,3 +469,15 @@ Selecteer een dag van DATA
 
 # License
 Licentie
+
+# Help
+Helpen
+
+# Change Log
+log wijzigen
+
+# No Internet connection
+Geen internet verbinding
+
+# Error happened
+er is een fout opgetreden

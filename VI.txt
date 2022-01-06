@@ -469,3 +469,15 @@ Chọn ngày tải dữ liệu
 
 # License
 Giấy phép
+
+# Help
+Giúp đỡ
+
+# Change Log
+Nhật ký thay đổi
+
+# No Internet connection
+Không có kết nối Internet
+
+# Error happened
+Đã có lỗi xảy ra

@@ -469,3 +469,15 @@ Veri günü seçin
 
 # License
 Lisans
+
+# Help
+Yardım
+
+# Change Log
+günlüğü değiştir
+
+# No Internet connection
+İnternet bağlantısı yok
+
+# Error happened
+hata oldu

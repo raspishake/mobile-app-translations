@@ -469,3 +469,15 @@ Veldu Gagnadag
 
 # License
 Leyfi
+
+# Help
+Hjálp
+
+# Change Log
+Breytingaskrá
+
+# No Internet connection
+Engin nettenging
+
+# Error happened
+villa gerðist

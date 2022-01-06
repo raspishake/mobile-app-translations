@@ -469,3 +469,15 @@ Seleziona un giorno di dati
 
 # License
 Licenza
+
+# Help
+Aiuto
+
+# Change Log
+modifica registro
+
+# No Internet connection
+Nessuna connessione internet
+
+# Error happened
+si è verificato un errore

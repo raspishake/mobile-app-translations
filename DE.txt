@@ -469,3 +469,15 @@ Erdbebenereignis, das im seismischen Netzwerk #RaspberryShake #CitizenScience au
 
 # License
 Lizenz
+
+# Help
+Hilfe
+
+# Change Log
+Änderungsprotokoll
+
+# No Internet connection
+Keine Internetverbindung
+
+# Error happened
+Fehler ist aufgetreten
