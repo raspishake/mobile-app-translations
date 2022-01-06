@@ -469,3 +469,15 @@ P波to S波の到着時刻を示す波型データ
 
 # License
 ライセンス
+
+# Help
+ヘルプ
+
+# Change Log
+変更ログ
+
+# No Internet connection
+インタネット未接続
+
+# Error happened
+エラーが発生しました

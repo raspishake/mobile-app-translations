@@ -469,3 +469,15 @@
 
 # License
 执照
+
+# Help
+帮助
+
+# Change Log
+更改日志
+
+# No Internet connection
+没有网络连接
+
+# Error happened
+发生错误

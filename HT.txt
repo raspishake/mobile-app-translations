@@ -533,3 +533,15 @@ Chwazi yon jou nan done yo
 
 # License
 Lisans
+
+# Help
+Ede
+
+# Change Log
+Journal Chanjman
+
+# No Internet connection
+Pa gen koneksyon entènèt
+
+# Error happened
+Erè ki te pase
