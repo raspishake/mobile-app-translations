@@ -480,4 +480,4 @@ günlüğü değiştir
 İnternet bağlantısı yok
 
 # Error happened
-hata oldu
+hata oluştu!
