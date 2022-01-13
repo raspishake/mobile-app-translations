@@ -474,10 +474,10 @@ Licence
 Aider
 
 # Change Log
-journal des modifications
+Journal des Modifications
 
 # No Internet connection
-Pas de connexion Internet
+Pas de Connexion Internet
 
 # Error happened
-une erreur s'est produite
+Une erreur s'est produite
