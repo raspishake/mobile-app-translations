@@ -474,10 +474,10 @@ Licencia
 Ayudar
 
 # Change Log
-cambio de registro
+Registro de Cambios
 
 # No Internet connection
 Sin conexión a Internet
 
 # Error happened
-ocurrió un error
+Ocurrió un Error
