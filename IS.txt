@@ -477,7 +477,7 @@ Hjálp
 Breytingaskrá
 
 # No Internet connection
-Engin nettenging
+Engin Nettenging
 
 # Error happened
-villa gerðist
+Villa gerðist
