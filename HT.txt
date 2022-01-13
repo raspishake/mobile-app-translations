@@ -538,10 +538,10 @@ Lisans
 Ede
 
 # Change Log
-journal chanjman
+Journal Chanjman
 
 # No Internet connection
 Pa gen koneksyon entènèt
 
 # Error happened
-erè ki te pase
+Erè ki te pase
