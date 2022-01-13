@@ -474,10 +474,10 @@ Licença
 Ajuda
 
 # Change Log
-log de mudança
+Registro de Alterações
 
 # No Internet connection
-Sem conexão com a Internet
+Sem Conexão com a Internet
 
 # Error happened
-erro aconteceu
+Ocorreu um Erro
