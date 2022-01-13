@@ -471,13 +471,13 @@ Selecteer een dag van DATA
 Licentie
 
 # Help
-Helpen
+Hulp
 
 # Change Log
-log wijzigen
+Changelog
 
 # No Internet connection
-Geen internet verbinding
+Geen Internet Verbinding
 
 # Error happened
-er is een fout opgetreden
+Er is een Fout Opgetreden
