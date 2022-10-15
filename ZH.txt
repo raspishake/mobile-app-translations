@@ -9,10 +9,10 @@
 收藏的测站
 
 # You have to be logged in to see station data for this earthquake
-您必须先登录才能查看该地震的测站数据
+登录以查看此地震事件的测站数据
 
 # Please connect your station to your profile to see station data for this earthquake
-请将您的测站绑定到您的账号上以查看此地震的测站数据
+请将您的测站绑定到您的账号上以查看此地震事件的测站数据
 
 # Login
 // as a verb
@@ -34,14 +34,14 @@
 距离
 
 # Magnitude %1+
-震级 %1+
+规模 %1+
 
 # %1 away
 // as a distance _away_ from phone's current location
 %1 以外
 
 # Ground Motion below %1 m/s
-%1m/s 以下的地面震动
+%1 m/s 以下的地面震动
 
 # Today
 今日
@@ -50,13 +50,13 @@
 昨日
 
 # %1 Earthquakes total
-地震总数 %1
+地震事件总数 %1
 
 # %1 in current filter
-已过滤的地震数为 %1
+已过滤的地震事件数 %1
 
 # My Shake
-我的测站
+我的 Shake
 
 # Unfollow
 取消收藏
@@ -87,7 +87,7 @@
 外观设定
 
 # About Raspberry Shake
-关于Raspberry Shake
+关于 Raspberry Shake
 
 # Clear cache
 清除缓存
@@ -105,19 +105,19 @@
 输入测站ID
 
 # You are now following station %1
-您目前收藏的测站 %1
+收藏测站 %1 成功
 
 # You are now no longer following station %1
-不再收藏该测站 %1
+取消收藏测站 %1 成功
 
 # Password Reset
 重设密码
 
 # Request sent!
-请求已发送
+请求已发送！
 
 # Your password request has been sent. If the requested e-mail has been registered it will receive an e-mail swiftly.
-密码重设请求已发送，如果该邮箱已注册您将收到一封电子邮件。
+密码重设请求已发送。
 
 # Request failed!
 请求失败！
@@ -126,10 +126,10 @@
 发送请求时发生错误。
 
 # Use the same email address to register as you used to configure your Raspberry Shake. If you do not own a Raspberry Shake, any email address will work.
-使用配置Raspberry Shake时所设定的邮箱进行注册， 如果没有Raspberry Shake，您也可以使用其他邮箱进行注册。
+建议使用配置 Raspberry Shake 时所设定的邮箱进行注册， 如果您没有Raspberry Shake，您也可以使用其他邮箱注册。
 
 # E-mail
-电子邮箱
+邮箱地址
 
 # Enter your E-mail
 输入您的邮箱地址
@@ -139,22 +139,22 @@
 重设密码
 
 # Successfully authenticated!
-认证成功！
+登录成功！
 
 # Your data has been retrieved.
-您的请求已被接受。
+请求发送成功。
 
 # Authentication failed!
-认证失败！
+登录失败！
 
 # The username/password combination was not valid, please try again.
-错误的用户名或密码，请重新输入。
+错误的用户名或密码，请重试。
 
 # Please use the same login that you use for ShakeNet
-请使用与ShakeNet相同的用户名。
+请使用与 ShakeNet 相同的用户名。
 
 # Username/E-mail
-用户名／电子邮箱
+用户名／邮箱
 
 # Password
 密码
@@ -163,7 +163,7 @@
 输入密码
 
 # Forgot your password?
-忘记密码?
+忘记密码？
 
 # Register
 注册
@@ -175,10 +175,10 @@
 注册成功！
 
 # Your account has been registered, an e-mail has been sent to registered address. Once confirmed you will be able to login with this account.
-您的帐户已注册，一封确认邮件已发送到您的邮箱。 确认后您将可以使用该帐户登录。
+帐户注册成功，一封确认邮件已发送到您的邮箱。 确认后您将可以使用该帐户登录。
 
 # There were validation errors, please try again.
-验证失败，请重试。
+登录失败，请重试。
 
 # Username
 用户名
@@ -196,7 +196,7 @@
 确认密码
 
 # %1 Earthquakes
-%1 个地震
+%1 个地震事件
 
 # List
 列表
@@ -211,13 +211,13 @@
 地区
 
 # Select the region you are interested in
-选择一个您感兴趣的地区
+选择一个地区
 
 # World
-世界
+全球
 
 # This version is no longer supported. Please check the Play Store for the official Raspberry Shake App.
-该软件版本已停止支持，请到Play商店中下载最新的Raspberry Shake。
+您正在使用的软件版本已停止支持，请到应用商店中下载最新的Raspberry Shake App。
 
 # Ok
 确认
@@ -227,16 +227,16 @@
 %1 到 %2
 
 # Sort & Filter
-排序和过滤设定
+排序与过滤器
 
 # Sort
 排序方式
 
 # Filter
-过滤设定
+过滤器
 
 # Sort Earthquakes By
-按照以下方式对地震进行排序
+按照以下方式对地震事件进行排序
 
 # Date
 日期
@@ -248,7 +248,7 @@
 相关性
 
 # Filter Earthquakes By
-按照以下方式对地震进行过滤
+按照以下方式对地震事件进行过滤
 
 # min
 最小值
@@ -276,16 +276,16 @@
 在 %1 到 %2 以内
 
 # Distance to your location
-到您的位置的距离
+震中距您
 
 # Whole World
-全世界
+全球
 
 # %1 Earthquakes in this filter
-已过滤的地震 %1
+已过滤 %1 个地震事件
 
 # Reset filters
-清除过滤设定
+重设过滤器
 
 # Most recent earthquakes first
 日期最近的地震优先
@@ -300,13 +300,13 @@
 震级大且距离最近的地震优先
 
 # #Earthquake recorded on the #RaspberryShake #CitizenScience seismic network. See what's shaking near you with the @raspishake #ShakeNet mobile app
-由 #RaspberryShake #CitizenScience 地震网记录的地震，使用 @raspishake #ShakeNet 软件查看附近正在发生的地震。
+由 #RaspberryShake #CitizenScience 地震网记录的地震，使用 @raspishake #ShakeNet 软件查看你附近正在发生的地震。
 
 # #Earthquake event recorded on the #RaspberryShake #CitizenScience seismic network. See what's shaking near you with the @raspishake #ShakeNet mobile app
-由 #RaspberryShake #CitizenScience 地震网记录的地震，使用 @raspishake #ShakeNet 软件查看附近正在发生的地震。
+由 #RaspberryShake #CitizenScience 地震网记录的地震，使用 @raspishake #ShakeNet 软件查看你附近正在发生的地震。
 
 # 24-hr Plot data recorded on the #RaspberryShake #CitizenScience seismic network. See what's shaking near you with the @raspishake #ShakeNet mobile app
-由 #RaspberryShake #CitizenScience 地震网记录的24小时地震波形，使用 @raspishake #ShakeNet 软件查看附近正在发生的地震。
+由 #RaspberryShake #CitizenScience 地震网记录的24小时地震波形，使用 @raspishake #ShakeNet 软件查看你附近正在发生的地震。
 
 # About
 关于
@@ -343,13 +343,13 @@
 主题
 
 # Light Theme
-正常
+浅色主题
 
 # Dark Theme
-暗黑
+深色主题
 
 # OFFLINE Stations
-离线测站
+离线的测站
 
 # HIDE
 隐藏
@@ -359,10 +359,10 @@
 
 # Media
 // as in social media websites
-社交
+社交网站
 
 # City / State
-城市／区
+城市 / 省份
 
 # Country
 国家
@@ -398,16 +398,16 @@
 对数标尺
 
 # Station offline
-测站离线
+测站已离线
 
 # live
-实时
+即时
 
 # No Station found
-未找到测站
+找不到测站
 
 # No Channel found
-未找到频道
+找不到通道
 
 # unknown station
 未知的测站
@@ -416,13 +416,13 @@
 未知的地区
 
 # Waveform
-波型
+波型图
 
 # Amplitude
 振幅
 
 # Waveform data showing P- and S-wave arrival times
-显示P波和S波到达时的波形图
+波形图显示P波和S波到达时间
 
 # Counts
 计数
@@ -431,7 +431,7 @@
 离线
 
 # Server unavailable, please try again later
-服务器不可用，请稍后再试。
+服务器不可用，请稍后再试
 
 # No data
 无数据
@@ -440,26 +440,26 @@
 波形滤波
 
 # Global 0.1 - 0.8 Hz
-全球 0.1 – 0.8 Hz
+全球震 0.1 – 0.8 Hz
 
 # Regional 0.7 - 2.0 Hz
-区域 0.7 – 2.0 Hz
+区域震 0.7 – 2.0 Hz
 
 # Local 3.0 - 8.0 Hz
-本地 3.0 – 8.0 Hz
+本地震 3.0 – 8.0 Hz
 
 # Hyper Local 3.0 - 20.0 Hz
-局部 3.0 – 20.0 Hz
+局部震 3.0 – 20.0 Hz
 
 # Elevation
 海拔
 
 # unfiltered
 // refers to a filter being applied to a waveform on display
-无滤波
+未滤波
 
 # Events
-地震
+地震事件
 
 # Stations
 测站
@@ -468,16 +468,16 @@
 选择一个日期
 
 # License
-执照
+许可
 
 # Help
 帮助
 
 # Change Log
-更改日志
+更新日志
 
 # No Internet connection
-没有网络连接
+请检查网络连接
 
 # Error happened
 发生错误
