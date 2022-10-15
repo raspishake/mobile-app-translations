@@ -217,7 +217,7 @@
 全球
 
 # This version is no longer supported. Please check the Play Store for the official Raspberry Shake App.
-您正在使用的软件版本已停止支持，请到应用商店中下载最新的ShakeNet App。
+您所使用的版本已停止支持，请前往应用商店下载安装最新的 ShakeNet。
 
 # Ok
 确认
