@@ -50,10 +50,10 @@
 昨日
 
 # %1 Earthquakes total
-地震事件总数 %1
+共 %1 个地震事件
 
 # %1 in current filter
-已过滤的地震事件数 %1
+已过滤 %1 个地震事件
 
 # My Shake
 我的 Shake
